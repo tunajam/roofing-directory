@@ -13,12 +13,31 @@ export const metadata: Metadata = {
  */
 const POSTS = [
   {
-    slug: 'example-post',
-    title: `${config.industry.singular} Cost: What You'll Actually Pay`,
-    excerpt: 'A deep dive into pricing across different markets.',
-    date: 'January 1, 2026',
-    readTime: '8 min read',
+    slug: 'roof-replacement-cost',
+    title: 'Roof Replacement Cost in 2026: By Material, Size & Region',
+    excerpt:
+      'What does a roof replacement actually cost? Real pricing by material (asphalt, metal, tile, slate), house size, and region.',
+    date: 'February 19, 2026',
+    readTime: '12 min read',
     category: 'Pricing',
+  },
+  {
+    slug: 'how-much-does-a-new-roof-cost',
+    title: 'How Much Does a New Roof Cost? (2026 Pricing Guide)',
+    excerpt:
+      'Full cost breakdown, 8 factors that affect price, and a practical guide for when to repair vs replace.',
+    date: 'February 19, 2026',
+    readTime: '10 min read',
+    category: 'Pricing',
+  },
+  {
+    slug: 'roofing-contractors-near-me',
+    title: 'Roofing Contractors Near Me: How to Find & Vet the Best',
+    excerpt:
+      'Red flags to watch for, 10 questions to ask, licensing requirements by state, and how to compare quotes like a pro.',
+    date: 'February 19, 2026',
+    readTime: '11 min read',
+    category: 'Tips',
   },
 ];
 
