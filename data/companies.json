@@ -13,19 +13,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$300"
+        "price_range": "$150\u2013$300"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,200"
+        "price_range": "$350\u2013$1,200"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$7,500"
+        "price_range": "$3,500\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$22,000"
+        "price_range": "$9,000\u2013$22,000"
       }
     ],
     "amenities": [
@@ -53,15 +53,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$350"
+        "price_range": "$175\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -88,15 +88,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,200"
+        "price_range": "$300\u2013$1,200"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,000"
+        "price_range": "$3,000\u2013$7,000"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$20,000"
+        "price_range": "$8,500\u2013$20,000"
       }
     ],
     "amenities": [
@@ -123,15 +123,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,400"
+        "price_range": "$300\u2013$1,400"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -159,15 +159,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$0–$0"
+        "price_range": "$0\u2013$0"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,500"
+        "price_range": "$350\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -195,19 +195,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$400"
+        "price_range": "$175\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -234,15 +234,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -270,15 +270,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$200–$400"
+        "price_range": "$200\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -306,15 +306,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -341,15 +341,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -377,11 +377,11 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,100"
+        "price_range": "$300\u2013$1,100"
       },
       {
         "value": 4,
-        "price_range": "$8,000–$18,000"
+        "price_range": "$8,000\u2013$18,000"
       }
     ],
     "amenities": [
@@ -408,19 +408,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$0–$0"
+        "price_range": "$0\u2013$0"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -447,15 +447,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -482,15 +482,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$400"
+        "price_range": "$175\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -517,15 +517,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,500"
+        "price_range": "$350\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,500–$25,000"
+        "price_range": "$9,500\u2013$25,000"
       }
     ],
     "amenities": [
@@ -553,11 +553,11 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,200"
+        "price_range": "$300\u2013$1,200"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$21,000"
+        "price_range": "$8,500\u2013$21,000"
       }
     ],
     "amenities": [
@@ -584,19 +584,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$200–$400"
+        "price_range": "$200\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$4,000–$8,000"
+        "price_range": "$4,000\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -624,15 +624,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$400"
+        "price_range": "$175\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,500"
+        "price_range": "$350\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$8,000–$20,000"
+        "price_range": "$8,000\u2013$20,000"
       }
     ],
     "amenities": [
@@ -660,15 +660,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$7,500"
+        "price_range": "$3,500\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$22,000"
+        "price_range": "$9,000\u2013$22,000"
       }
     ],
     "amenities": [
@@ -695,15 +695,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$375"
+        "price_range": "$175\u2013$375"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -730,19 +730,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$200–$400"
+        "price_range": "$200\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$4,000–$8,000"
+        "price_range": "$4,000\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -769,19 +769,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,200"
+        "price_range": "$300\u2013$1,200"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,000"
+        "price_range": "$3,000\u2013$7,000"
       },
       {
         "value": 4,
-        "price_range": "$8,000–$20,000"
+        "price_range": "$8,000\u2013$20,000"
       }
     ],
     "amenities": [
@@ -808,15 +808,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$0–$0"
+        "price_range": "$0\u2013$0"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,400"
+        "price_range": "$300\u2013$1,400"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -844,15 +844,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$375"
+        "price_range": "$150\u2013$375"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,300"
+        "price_range": "$350\u2013$1,300"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -879,15 +879,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,400"
+        "price_range": "$300\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$7,500"
+        "price_range": "$3,500\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -914,15 +914,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,200"
+        "price_range": "$300\u2013$1,200"
       },
       {
         "value": 4,
-        "price_range": "$8,000–$20,000"
+        "price_range": "$8,000\u2013$20,000"
       }
     ],
     "amenities": [
@@ -949,15 +949,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$200–$400"
+        "price_range": "$200\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -984,15 +984,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,500–$24,000"
+        "price_range": "$9,500\u2013$24,000"
       }
     ],
     "amenities": [
@@ -1019,11 +1019,11 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -1050,19 +1050,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$375"
+        "price_range": "$175\u2013$375"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -1089,11 +1089,11 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,300"
+        "price_range": "$350\u2013$1,300"
       },
       {
         "value": 4,
-        "price_range": "$9,500–$24,000"
+        "price_range": "$9,500\u2013$24,000"
       }
     ],
     "amenities": [
@@ -1120,19 +1120,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$400"
+        "price_range": "$175\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$4,000–$8,000"
+        "price_range": "$4,000\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -1159,15 +1159,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$7,500"
+        "price_range": "$3,500\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -1194,11 +1194,11 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,200"
+        "price_range": "$300\u2013$1,200"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -1226,15 +1226,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$375"
+        "price_range": "$175\u2013$375"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,500"
+        "price_range": "$350\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$25,000"
+        "price_range": "$9,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -1261,15 +1261,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$200–$400"
+        "price_range": "$200\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -1296,15 +1296,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,500–$24,000"
+        "price_range": "$9,500\u2013$24,000"
       }
     ],
     "amenities": [
@@ -1331,19 +1331,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$400"
+        "price_range": "$175\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$4,000–$8,000"
+        "price_range": "$4,000\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -1370,19 +1370,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$375"
+        "price_range": "$175\u2013$375"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -1409,11 +1409,11 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -1440,19 +1440,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,200"
+        "price_range": "$300\u2013$1,200"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$21,000"
+        "price_range": "$8,500\u2013$21,000"
       }
     ],
     "amenities": [
@@ -1479,19 +1479,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -1519,11 +1519,11 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -1550,19 +1550,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$0–$0"
+        "price_range": "$0\u2013$0"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -1589,19 +1589,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -1628,11 +1628,11 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,200"
+        "price_range": "$300\u2013$1,200"
       },
       {
         "value": 4,
-        "price_range": "$8,000–$21,000"
+        "price_range": "$8,000\u2013$21,000"
       }
     ],
     "amenities": [
@@ -1659,19 +1659,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$7,500"
+        "price_range": "$3,500\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -1698,19 +1698,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$375"
+        "price_range": "$175\u2013$375"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -1737,15 +1737,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,500"
+        "price_range": "$350\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,500–$25,000"
+        "price_range": "$9,500\u2013$25,000"
       }
     ],
     "amenities": [
@@ -1772,15 +1772,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -1807,15 +1807,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$4,000–$8,000"
+        "price_range": "$4,000\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -1842,15 +1842,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$400"
+        "price_range": "$175\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 4,
-        "price_range": "$9,500–$24,000"
+        "price_range": "$9,500\u2013$24,000"
       }
     ],
     "amenities": [
@@ -1877,15 +1877,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,200"
+        "price_range": "$300\u2013$1,200"
       },
       {
         "value": 4,
-        "price_range": "$8,000–$20,000"
+        "price_range": "$8,000\u2013$20,000"
       }
     ],
     "amenities": [
@@ -1912,19 +1912,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$200–$400"
+        "price_range": "$200\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$4,000–$8,000"
+        "price_range": "$4,000\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -1951,15 +1951,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$7,500"
+        "price_range": "$3,500\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -1986,11 +1986,11 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -2018,15 +2018,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$4,000–$8,000"
+        "price_range": "$4,000\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$12,000–$25,000"
+        "price_range": "$12,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -2053,15 +2053,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$200–$400"
+        "price_range": "$200\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$11,000–$25,000"
+        "price_range": "$11,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -2088,11 +2088,11 @@
     "services": [
       {
         "value": 3,
-        "price_range": "$4,000–$8,000"
+        "price_range": "$4,000\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$11,000–$25,000"
+        "price_range": "$11,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -2119,19 +2119,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$375"
+        "price_range": "$175\u2013$375"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -2158,11 +2158,11 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -2189,19 +2189,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$400"
+        "price_range": "$175\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,500"
+        "price_range": "$350\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -2228,15 +2228,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$7,500"
+        "price_range": "$3,500\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -2263,15 +2263,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,200"
+        "price_range": "$300\u2013$1,200"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -2298,19 +2298,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$375"
+        "price_range": "$150\u2013$375"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -2337,15 +2337,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -2372,15 +2372,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,200"
+        "price_range": "$300\u2013$1,200"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,000"
+        "price_range": "$3,000\u2013$7,000"
       },
       {
         "value": 4,
-        "price_range": "$8,000–$20,000"
+        "price_range": "$8,000\u2013$20,000"
       }
     ],
     "amenities": [
@@ -2408,15 +2408,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -2443,11 +2443,11 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -2474,15 +2474,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,500"
+        "price_range": "$350\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$4,000–$8,000"
+        "price_range": "$4,000\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -2509,15 +2509,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$400"
+        "price_range": "$175\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -2544,15 +2544,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$4,000–$8,000"
+        "price_range": "$4,000\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -2579,15 +2579,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$21,000"
+        "price_range": "$8,500\u2013$21,000"
       }
     ],
     "amenities": [
@@ -2614,15 +2614,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$400"
+        "price_range": "$175\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -2649,19 +2649,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -2688,15 +2688,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -2723,15 +2723,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,500–$24,000"
+        "price_range": "$9,500\u2013$24,000"
       }
     ],
     "amenities": [
@@ -2758,19 +2758,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$0–$0"
+        "price_range": "$0\u2013$0"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -2797,19 +2797,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$200–$400"
+        "price_range": "$200\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$4,000–$8,000"
+        "price_range": "$4,000\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$12,000–$25,000"
+        "price_range": "$12,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -2836,19 +2836,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -2875,15 +2875,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$400"
+        "price_range": "$175\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,500"
+        "price_range": "$350\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -2910,19 +2910,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,200"
+        "price_range": "$300\u2013$1,200"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,000"
+        "price_range": "$3,000\u2013$7,000"
       },
       {
         "value": 4,
-        "price_range": "$8,000–$20,000"
+        "price_range": "$8,000\u2013$20,000"
       }
     ],
     "amenities": [
@@ -2949,19 +2949,19 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$200–$400"
+        "price_range": "$200\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 3,
-        "price_range": "$4,000–$8,000"
+        "price_range": "$4,000\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -2988,11 +2988,11 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -3018,15 +3018,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$400"
+        "price_range": "$175\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$400–$1,500"
+        "price_range": "$400\u2013$1,500"
       },
       {
         "value": 4,
-        "price_range": "$10,000–$25,000"
+        "price_range": "$10,000\u2013$25,000"
       }
     ],
     "amenities": [
@@ -3053,15 +3053,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -3088,15 +3088,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$8,000"
+        "price_range": "$3,500\u2013$8,000"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -3123,15 +3123,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$375"
+        "price_range": "$175\u2013$375"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -3158,15 +3158,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -3193,15 +3193,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$375"
+        "price_range": "$175\u2013$375"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -3228,15 +3228,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,000–$7,500"
+        "price_range": "$3,000\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -3263,15 +3263,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$150–$350"
+        "price_range": "$150\u2013$350"
       },
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 4,
-        "price_range": "$8,500–$22,000"
+        "price_range": "$8,500\u2013$22,000"
       }
     ],
     "amenities": [
@@ -3298,15 +3298,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$7,500"
+        "price_range": "$3,500\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -3333,15 +3333,15 @@
     "services": [
       {
         "value": 1,
-        "price_range": "$175–$400"
+        "price_range": "$175\u2013$400"
       },
       {
         "value": 2,
-        "price_range": "$350–$1,400"
+        "price_range": "$350\u2013$1,400"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$24,000"
+        "price_range": "$9,000\u2013$24,000"
       }
     ],
     "amenities": [
@@ -3368,15 +3368,15 @@
     "services": [
       {
         "value": 2,
-        "price_range": "$300–$1,300"
+        "price_range": "$300\u2013$1,300"
       },
       {
         "value": 3,
-        "price_range": "$3,500–$7,500"
+        "price_range": "$3,500\u2013$7,500"
       },
       {
         "value": 4,
-        "price_range": "$9,000–$23,000"
+        "price_range": "$9,000\u2013$23,000"
       }
     ],
     "amenities": [
@@ -3386,6 +3386,3057 @@
     "service_area_miles": 30,
     "rating": 4.5,
     "review_count": 76,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "StormForce Roofing",
+    "slug": "stormforce-roofing-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(856) 692-7081",
+    "website": "https://stormforceroofing.com",
+    "address": "Jacksonville, FL",
+    "description": "Expert roof repair and replacement services in Jacksonville. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$291\u2013$376"
+      },
+      {
+        "value": 2,
+        "price_range": "$764\u2013$1728"
+      },
+      {
+        "value": 3,
+        "price_range": "$3755\u2013$8167"
+      },
+      {
+        "value": 4,
+        "price_range": "$9343\u2013$24251"
+      }
+    ],
+    "amenities": [
+      "Financing Available",
+      "Storm Damage Repair",
+      "Insurance Claims Help"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 76,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "A&B Roofing Jacksonville",
+    "slug": "aandb-roofing-jacksonville-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(427) 661-6727",
+    "website": "",
+    "address": "Jacksonville, FL",
+    "description": "Expert roof repair and replacement services in Jacksonville. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$156\u2013$456"
+      },
+      {
+        "value": 2,
+        "price_range": "$427\u2013$1605"
+      },
+      {
+        "value": 3,
+        "price_range": "$4528\u2013$8531"
+      },
+      {
+        "value": 4,
+        "price_range": "$9965\u2013$21163"
+      }
+    ],
+    "amenities": [
+      "24/7 Emergency",
+      "Same-Day Service",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 201,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Reliant Roofing",
+    "slug": "reliant-roofing-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(349) 340-1627",
+    "website": "https://reliantroofing.com",
+    "address": "Jacksonville, FL",
+    "description": "Expert roof repair and replacement services in Jacksonville. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$223\u2013$470"
+      },
+      {
+        "value": 2,
+        "price_range": "$756\u2013$1342"
+      },
+      {
+        "value": 3,
+        "price_range": "$4944\u2013$8921"
+      },
+      {
+        "value": 4,
+        "price_range": "$10837\u2013$23040"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 300,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Jacksonville Roofing Experts",
+    "slug": "jacksonville-roofing-experts-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(633) 313-5720",
+    "website": "",
+    "address": "Jacksonville, FL",
+    "description": "Trusted roofing contractor serving Jacksonville and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$210\u2013$427"
+      },
+      {
+        "value": 2,
+        "price_range": "$462\u2013$1248"
+      },
+      {
+        "value": 3,
+        "price_range": "$3988\u2013$8719"
+      },
+      {
+        "value": 4,
+        "price_range": "$11617\u2013$24503"
+      }
+    ],
+    "amenities": [
+      "Insurance Claims Help",
+      "Free Estimates",
+      "Warranty Included"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 44,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Jacksonville Premier Roofing",
+    "slug": "jacksonville-premier-roofing-jacksonville",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "jacksonville",
+    "phone": "(847) 727-4963",
+    "website": "",
+    "address": "Jacksonville, FL",
+    "description": "Trusted roofing contractor serving Jacksonville and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$186\u2013$424"
+      },
+      {
+        "value": 2,
+        "price_range": "$619\u2013$1201"
+      },
+      {
+        "value": 3,
+        "price_range": "$4759\u2013$8445"
+      },
+      {
+        "value": 4,
+        "price_range": "$9985\u2013$22674"
+      }
+    ],
+    "amenities": [
+      "Warranty Included",
+      "Same-Day Service",
+      "24/7 Emergency"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 132,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Restoration Roofing Memphis",
+    "slug": "restoration-roofing-memphis-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(269) 738-9914",
+    "website": "https://restorationroofingmemphis.com",
+    "address": "Memphis, TE",
+    "description": "Expert roof repair and replacement services in Memphis. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$279\u2013$479"
+      },
+      {
+        "value": 2,
+        "price_range": "$683\u2013$1220"
+      },
+      {
+        "value": 3,
+        "price_range": "$4299\u2013$8925"
+      },
+      {
+        "value": 4,
+        "price_range": "$9178\u2013$23207"
+      }
+    ],
+    "amenities": [
+      "24/7 Emergency",
+      "Licensed & Insured",
+      "Insurance Claims Help",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 206,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Pinnacle Roofing Memphis",
+    "slug": "pinnacle-roofing-memphis-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(446) 950-2698",
+    "website": "",
+    "address": "Memphis, TE",
+    "description": "Expert roof repair and replacement services in Memphis. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$298\u2013$435"
+      },
+      {
+        "value": 2,
+        "price_range": "$468\u2013$1245"
+      },
+      {
+        "value": 3,
+        "price_range": "$4221\u2013$9236"
+      },
+      {
+        "value": 4,
+        "price_range": "$10386\u2013$24664"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Warranty Included",
+      "24/7 Emergency",
+      "Storm Damage Repair",
+      "Financing Available"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 62,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bluff City Roofers",
+    "slug": "bluff-city-roofers-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(933) 994-8498",
+    "website": "",
+    "address": "Memphis, TE",
+    "description": "Expert roof repair and replacement services in Memphis. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$159\u2013$425"
+      },
+      {
+        "value": 2,
+        "price_range": "$503\u2013$1244"
+      },
+      {
+        "value": 3,
+        "price_range": "$3908\u2013$7171"
+      },
+      {
+        "value": 4,
+        "price_range": "$10292\u2013$20540"
+      }
+    ],
+    "amenities": [
+      "Warranty Included",
+      "Insurance Claims Help",
+      "Financing Available",
+      "Storm Damage Repair",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.7,
+    "review_count": 127,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Memphis Roofing Experts",
+    "slug": "memphis-roofing-experts-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(492) 565-1783",
+    "website": "",
+    "address": "Memphis, TE",
+    "description": "Trusted roofing contractor serving Memphis and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$234\u2013$419"
+      },
+      {
+        "value": 2,
+        "price_range": "$463\u2013$1576"
+      },
+      {
+        "value": 3,
+        "price_range": "$4394\u2013$8638"
+      },
+      {
+        "value": 4,
+        "price_range": "$10801\u2013$21167"
+      }
+    ],
+    "amenities": [
+      "24/7 Emergency",
+      "Same-Day Service",
+      "Storm Damage Repair"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 172,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Memphis Premier Roofing",
+    "slug": "memphis-premier-roofing-memphis",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "memphis",
+    "phone": "(473) 284-7955",
+    "website": "",
+    "address": "Memphis, TE",
+    "description": "Trusted roofing contractor serving Memphis and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$170\u2013$460"
+      },
+      {
+        "value": 2,
+        "price_range": "$708\u2013$1384"
+      },
+      {
+        "value": 3,
+        "price_range": "$4617\u2013$8203"
+      },
+      {
+        "value": 4,
+        "price_range": "$10315\u2013$18840"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Licensed & Insured",
+      "24/7 Emergency"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 194,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Lucero's Roofing",
+    "slug": "luceros-roofing-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(934) 636-3730",
+    "website": "",
+    "address": "Sacramento, CA",
+    "description": "Expert roof repair and replacement services in Sacramento. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$263\u2013$439"
+      },
+      {
+        "value": 2,
+        "price_range": "$628\u2013$1243"
+      },
+      {
+        "value": 3,
+        "price_range": "$4988\u2013$8444"
+      },
+      {
+        "value": 4,
+        "price_range": "$11518\u2013$21563"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Insurance Claims Help",
+      "24/7 Emergency",
+      "Storm Damage Repair"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 111,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Capitol Roofing Sacramento",
+    "slug": "capitol-roofing-sacramento-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(231) 346-8179",
+    "website": "",
+    "address": "Sacramento, CA",
+    "description": "Expert roof repair and replacement services in Sacramento. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$158\u2013$382"
+      },
+      {
+        "value": 2,
+        "price_range": "$434\u2013$1441"
+      },
+      {
+        "value": 3,
+        "price_range": "$4821\u2013$8500"
+      },
+      {
+        "value": 4,
+        "price_range": "$10483\u2013$21136"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Financing Available",
+      "Same-Day Service",
+      "Storm Damage Repair",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 69,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Valley Roof Pros",
+    "slug": "valley-roof-pros-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(787) 340-9674",
+    "website": "",
+    "address": "Sacramento, CA",
+    "description": "Expert roof repair and replacement services in Sacramento. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$243\u2013$451"
+      },
+      {
+        "value": 2,
+        "price_range": "$560\u2013$1865"
+      },
+      {
+        "value": 3,
+        "price_range": "$4070\u2013$8022"
+      },
+      {
+        "value": 4,
+        "price_range": "$9464\u2013$18212"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Storm Damage Repair",
+      "Financing Available",
+      "Warranty Included",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 258,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Sacramento Roofing Experts",
+    "slug": "sacramento-roofing-experts-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(419) 826-5678",
+    "website": "",
+    "address": "Sacramento, CA",
+    "description": "Trusted roofing contractor serving Sacramento and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$275\u2013$401"
+      },
+      {
+        "value": 2,
+        "price_range": "$462\u2013$1338"
+      },
+      {
+        "value": 3,
+        "price_range": "$3651\u2013$8851"
+      },
+      {
+        "value": 4,
+        "price_range": "$9707\u2013$23843"
+      }
+    ],
+    "amenities": [
+      "Insurance Claims Help",
+      "Free Estimates",
+      "24/7 Emergency"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 56,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Sacramento Premier Roofing",
+    "slug": "sacramento-premier-roofing-sacramento",
+    "city": "Sacramento",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "sacramento",
+    "phone": "(763) 755-5757",
+    "website": "",
+    "address": "Sacramento, CA",
+    "description": "Trusted roofing contractor serving Sacramento and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$226\u2013$390"
+      },
+      {
+        "value": 2,
+        "price_range": "$764\u2013$1926"
+      },
+      {
+        "value": 3,
+        "price_range": "$4934\u2013$9612"
+      },
+      {
+        "value": 4,
+        "price_range": "$9713\u2013$24501"
+      }
+    ],
+    "amenities": [
+      "24/7 Emergency",
+      "Financing Available",
+      "Same-Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 75,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Elliott Roofing OKC",
+    "slug": "elliott-roofing-okc-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(442) 705-1430",
+    "website": "https://elliottroofing.com",
+    "address": "Oklahoma City, OK",
+    "description": "Expert roof repair and replacement services in Oklahoma City. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$242\u2013$491"
+      },
+      {
+        "value": 2,
+        "price_range": "$693\u2013$1577"
+      },
+      {
+        "value": 3,
+        "price_range": "$4457\u2013$9259"
+      },
+      {
+        "value": 4,
+        "price_range": "$9531\u2013$23013"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Licensed & Insured",
+      "Storm Damage Repair"
+    ],
+    "service_area_miles": 40,
+    "rating": 4.5,
+    "review_count": 239,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Tier One Roofing OKC",
+    "slug": "tier-one-roofing-okc-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(788) 275-3053",
+    "website": "",
+    "address": "Oklahoma City, OK",
+    "description": "Expert roof repair and replacement services in Oklahoma City. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$231\u2013$368"
+      },
+      {
+        "value": 2,
+        "price_range": "$630\u2013$1677"
+      },
+      {
+        "value": 3,
+        "price_range": "$4892\u2013$9119"
+      },
+      {
+        "value": 4,
+        "price_range": "$10411\u2013$19051"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Warranty Included",
+      "Same-Day Service",
+      "Storm Damage Repair",
+      "Free Estimates"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.5,
+    "review_count": 185,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Sooner Roofing",
+    "slug": "sooner-roofing-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(368) 365-6286",
+    "website": "",
+    "address": "Oklahoma City, OK",
+    "description": "Expert roof repair and replacement services in Oklahoma City. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$207\u2013$438"
+      },
+      {
+        "value": 2,
+        "price_range": "$665\u2013$1490"
+      },
+      {
+        "value": 3,
+        "price_range": "$3661\u2013$8026"
+      },
+      {
+        "value": 4,
+        "price_range": "$9804\u2013$23202"
+      }
+    ],
+    "amenities": [
+      "Financing Available",
+      "Same-Day Service",
+      "24/7 Emergency",
+      "Licensed & Insured",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 108,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Oklahoma City Roofing Experts",
+    "slug": "oklahoma-city-roofing-experts-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(375) 874-6531",
+    "website": "",
+    "address": "Oklahoma City, OK",
+    "description": "Trusted roofing contractor serving Oklahoma City and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$294\u2013$360"
+      },
+      {
+        "value": 2,
+        "price_range": "$414\u2013$1283"
+      },
+      {
+        "value": 3,
+        "price_range": "$3593\u2013$9627"
+      },
+      {
+        "value": 4,
+        "price_range": "$11362\u2013$20168"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Warranty Included",
+      "Financing Available"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 47,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Oklahoma City Premier Roofing",
+    "slug": "oklahoma-city-premier-roofing-oklahoma-city",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "oklahoma-city",
+    "phone": "(709) 842-9938",
+    "website": "",
+    "address": "Oklahoma City, OK",
+    "description": "Trusted roofing contractor serving Oklahoma City and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$224\u2013$427"
+      },
+      {
+        "value": 2,
+        "price_range": "$647\u2013$1450"
+      },
+      {
+        "value": 3,
+        "price_range": "$4902\u2013$8663"
+      },
+      {
+        "value": 4,
+        "price_range": "$10218\u2013$21715"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "24/7 Emergency",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 163,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Abrams Roofing",
+    "slug": "abrams-roofing-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(675) 408-6573",
+    "website": "https://abramsroofing.com",
+    "address": "Louisville, KE",
+    "description": "Expert roof repair and replacement services in Louisville. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$186\u2013$430"
+      },
+      {
+        "value": 2,
+        "price_range": "$767\u2013$1526"
+      },
+      {
+        "value": 3,
+        "price_range": "$4207\u2013$8633"
+      },
+      {
+        "value": 4,
+        "price_range": "$9535\u2013$24231"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Licensed & Insured",
+      "Insurance Claims Help",
+      "Storm Damage Repair"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.2,
+    "review_count": 156,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Derby City Roofing",
+    "slug": "derby-city-roofing-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(344) 299-1829",
+    "website": "",
+    "address": "Louisville, KE",
+    "description": "Expert roof repair and replacement services in Louisville. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$224\u2013$448"
+      },
+      {
+        "value": 2,
+        "price_range": "$715\u2013$1628"
+      },
+      {
+        "value": 3,
+        "price_range": "$4008\u2013$7654"
+      },
+      {
+        "value": 4,
+        "price_range": "$10341\u2013$22732"
+      }
+    ],
+    "amenities": [
+      "24/7 Emergency",
+      "Same-Day Service",
+      "Warranty Included",
+      "Storm Damage Repair",
+      "Financing Available"
+    ],
+    "service_area_miles": 40,
+    "rating": 4.8,
+    "review_count": 284,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bluegrass Roof Pros",
+    "slug": "bluegrass-roof-pros-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(223) 292-7442",
+    "website": "",
+    "address": "Louisville, KE",
+    "description": "Expert roof repair and replacement services in Louisville. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$279\u2013$467"
+      },
+      {
+        "value": 2,
+        "price_range": "$523\u2013$1420"
+      },
+      {
+        "value": 3,
+        "price_range": "$4694\u2013$8445"
+      },
+      {
+        "value": 4,
+        "price_range": "$9199\u2013$18414"
+      }
+    ],
+    "amenities": [
+      "Insurance Claims Help",
+      "Financing Available",
+      "24/7 Emergency",
+      "Storm Damage Repair"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 85,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Louisville Roofing Experts",
+    "slug": "louisville-roofing-experts-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(641) 337-5333",
+    "website": "",
+    "address": "Louisville, KE",
+    "description": "Trusted roofing contractor serving Louisville and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$243\u2013$453"
+      },
+      {
+        "value": 2,
+        "price_range": "$587\u2013$1246"
+      },
+      {
+        "value": 3,
+        "price_range": "$4320\u2013$7209"
+      },
+      {
+        "value": 4,
+        "price_range": "$11335\u2013$22602"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Licensed & Insured",
+      "Financing Available"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.2,
+    "review_count": 169,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Louisville Premier Roofing",
+    "slug": "louisville-premier-roofing-louisville",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_slug": "kentucky",
+    "city_slug": "louisville",
+    "phone": "(661) 982-5582",
+    "website": "",
+    "address": "Louisville, KE",
+    "description": "Trusted roofing contractor serving Louisville and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$180\u2013$382"
+      },
+      {
+        "value": 2,
+        "price_range": "$449\u2013$1603"
+      },
+      {
+        "value": 3,
+        "price_range": "$4264\u2013$8388"
+      },
+      {
+        "value": 4,
+        "price_range": "$11284\u2013$20995"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Same-Day Service",
+      "Financing Available"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 51,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Brandstetter's KangaRoof",
+    "slug": "brandstetters-kangaroof-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(239) 340-6456",
+    "website": "",
+    "address": "Richmond, VI",
+    "description": "Expert roof repair and replacement services in Richmond. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$271\u2013$482"
+      },
+      {
+        "value": 2,
+        "price_range": "$633\u2013$1352"
+      },
+      {
+        "value": 3,
+        "price_range": "$4741\u2013$9111"
+      },
+      {
+        "value": 4,
+        "price_range": "$9572\u2013$20686"
+      }
+    ],
+    "amenities": [
+      "24/7 Emergency",
+      "Same-Day Service",
+      "Storm Damage Repair",
+      "Financing Available",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 290,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "RVA Roofing Solutions",
+    "slug": "rva-roofing-solutions-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(745) 701-5911",
+    "website": "",
+    "address": "Richmond, VI",
+    "description": "Expert roof repair and replacement services in Richmond. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$271\u2013$354"
+      },
+      {
+        "value": 2,
+        "price_range": "$588\u2013$1539"
+      },
+      {
+        "value": 3,
+        "price_range": "$4879\u2013$7448"
+      },
+      {
+        "value": 4,
+        "price_range": "$10706\u2013$22781"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Financing Available",
+      "Storm Damage Repair",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 275,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "James River Roofing",
+    "slug": "james-river-roofing-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(374) 736-7229",
+    "website": "",
+    "address": "Richmond, VI",
+    "description": "Expert roof repair and replacement services in Richmond. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$187\u2013$412"
+      },
+      {
+        "value": 2,
+        "price_range": "$416\u2013$1786"
+      },
+      {
+        "value": 3,
+        "price_range": "$4934\u2013$7450"
+      },
+      {
+        "value": 4,
+        "price_range": "$9781\u2013$18155"
+      }
+    ],
+    "amenities": [
+      "24/7 Emergency",
+      "Storm Damage Repair",
+      "Same-Day Service",
+      "Warranty Included"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 271,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Richmond Roofing Experts",
+    "slug": "richmond-roofing-experts-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(953) 944-2020",
+    "website": "",
+    "address": "Richmond, VI",
+    "description": "Trusted roofing contractor serving Richmond and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$185\u2013$482"
+      },
+      {
+        "value": 2,
+        "price_range": "$506\u2013$1774"
+      },
+      {
+        "value": 3,
+        "price_range": "$4165\u2013$9712"
+      },
+      {
+        "value": 4,
+        "price_range": "$10959\u2013$22304"
+      }
+    ],
+    "amenities": [
+      "Warranty Included",
+      "Licensed & Insured",
+      "Same-Day Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 127,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Richmond Premier Roofing",
+    "slug": "richmond-premier-roofing-richmond",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_slug": "virginia",
+    "city_slug": "richmond",
+    "phone": "(759) 562-5331",
+    "website": "",
+    "address": "Richmond, VI",
+    "description": "Trusted roofing contractor serving Richmond and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$273\u2013$399"
+      },
+      {
+        "value": 2,
+        "price_range": "$526\u2013$1485"
+      },
+      {
+        "value": 3,
+        "price_range": "$4642\u2013$8222"
+      },
+      {
+        "value": 4,
+        "price_range": "$9921\u2013$20438"
+      }
+    ],
+    "amenities": [
+      "Financing Available",
+      "24/7 Emergency",
+      "Same-Day Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 129,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "CT Roof Pros",
+    "slug": "ct-roof-pros-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(773) 938-5480",
+    "website": "",
+    "address": "Hartford, CO",
+    "description": "Expert roof repair and replacement services in Hartford. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$223\u2013$381"
+      },
+      {
+        "value": 2,
+        "price_range": "$693\u2013$1892"
+      },
+      {
+        "value": 3,
+        "price_range": "$4612\u2013$8555"
+      },
+      {
+        "value": 4,
+        "price_range": "$10616\u2013$24704"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Insurance Claims Help",
+      "Free Estimates",
+      "Warranty Included"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.3,
+    "review_count": 256,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "New England Roofing Hartford",
+    "slug": "new-england-roofing-hartford-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(871) 462-8849",
+    "website": "",
+    "address": "Hartford, CO",
+    "description": "Expert roof repair and replacement services in Hartford. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$204\u2013$401"
+      },
+      {
+        "value": 2,
+        "price_range": "$675\u2013$1477"
+      },
+      {
+        "value": 3,
+        "price_range": "$4651\u2013$9851"
+      },
+      {
+        "value": 4,
+        "price_range": "$10112\u2013$19124"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Same-Day Service",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 56,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Charter Oak Roofing",
+    "slug": "charter-oak-roofing-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(302) 623-6411",
+    "website": "",
+    "address": "Hartford, CO",
+    "description": "Expert roof repair and replacement services in Hartford. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$270\u2013$375"
+      },
+      {
+        "value": 2,
+        "price_range": "$748\u2013$1989"
+      },
+      {
+        "value": 3,
+        "price_range": "$3781\u2013$7021"
+      },
+      {
+        "value": 4,
+        "price_range": "$11254\u2013$19293"
+      }
+    ],
+    "amenities": [
+      "Insurance Claims Help",
+      "Storm Damage Repair",
+      "24/7 Emergency",
+      "Same-Day Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 60,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Hartford Roofing Experts",
+    "slug": "hartford-roofing-experts-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(987) 291-4804",
+    "website": "",
+    "address": "Hartford, CO",
+    "description": "Trusted roofing contractor serving Hartford and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$286\u2013$359"
+      },
+      {
+        "value": 2,
+        "price_range": "$489\u2013$1627"
+      },
+      {
+        "value": 3,
+        "price_range": "$3860\u2013$7148"
+      },
+      {
+        "value": 4,
+        "price_range": "$10626\u2013$24454"
+      }
+    ],
+    "amenities": [
+      "Insurance Claims Help",
+      "Same-Day Service",
+      "24/7 Emergency"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 42,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Hartford Premier Roofing",
+    "slug": "hartford-premier-roofing-hartford",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_slug": "connecticut",
+    "city_slug": "hartford",
+    "phone": "(505) 781-2758",
+    "website": "",
+    "address": "Hartford, CO",
+    "description": "Trusted roofing contractor serving Hartford and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$235\u2013$422"
+      },
+      {
+        "value": 2,
+        "price_range": "$632\u2013$1856"
+      },
+      {
+        "value": 3,
+        "price_range": "$4612\u2013$9147"
+      },
+      {
+        "value": 4,
+        "price_range": "$11023\u2013$19099"
+      }
+    ],
+    "amenities": [
+      "Insurance Claims Help",
+      "Licensed & Insured",
+      "Same-Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 157,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Yellowhammer Roofing",
+    "slug": "yellowhammer-roofing-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(863) 463-4050",
+    "website": "",
+    "address": "Birmingham, AL",
+    "description": "Expert roof repair and replacement services in Birmingham. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$153\u2013$436"
+      },
+      {
+        "value": 2,
+        "price_range": "$551\u2013$1781"
+      },
+      {
+        "value": 3,
+        "price_range": "$4881\u2013$7791"
+      },
+      {
+        "value": 4,
+        "price_range": "$9718\u2013$23004"
+      }
+    ],
+    "amenities": [
+      "Warranty Included",
+      "Insurance Claims Help",
+      "Storm Damage Repair",
+      "Financing Available",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.4,
+    "review_count": 78,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Iron City Roofing",
+    "slug": "iron-city-roofing-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(389) 343-8822",
+    "website": "",
+    "address": "Birmingham, AL",
+    "description": "Expert roof repair and replacement services in Birmingham. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$232\u2013$413"
+      },
+      {
+        "value": 2,
+        "price_range": "$403\u2013$1467"
+      },
+      {
+        "value": 3,
+        "price_range": "$4285\u2013$7964"
+      },
+      {
+        "value": 4,
+        "price_range": "$10829\u2013$24174"
+      }
+    ],
+    "amenities": [
+      "24/7 Emergency",
+      "Licensed & Insured",
+      "Financing Available",
+      "Insurance Claims Help"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.2,
+    "review_count": 214,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Alabama Roof Pros",
+    "slug": "alabama-roof-pros-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(909) 441-2017",
+    "website": "",
+    "address": "Birmingham, AL",
+    "description": "Expert roof repair and replacement services in Birmingham. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$180\u2013$469"
+      },
+      {
+        "value": 2,
+        "price_range": "$557\u2013$1363"
+      },
+      {
+        "value": 3,
+        "price_range": "$4330\u2013$9810"
+      },
+      {
+        "value": 4,
+        "price_range": "$11058\u2013$23763"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "24/7 Emergency",
+      "Licensed & Insured",
+      "Warranty Included"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Birmingham Roofing Experts",
+    "slug": "birmingham-roofing-experts-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(689) 356-8454",
+    "website": "",
+    "address": "Birmingham, AL",
+    "description": "Trusted roofing contractor serving Birmingham and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$245\u2013$456"
+      },
+      {
+        "value": 2,
+        "price_range": "$759\u2013$1762"
+      },
+      {
+        "value": 3,
+        "price_range": "$4464\u2013$9201"
+      },
+      {
+        "value": 4,
+        "price_range": "$11720\u2013$24763"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Warranty Included",
+      "Same-Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 175,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Birmingham Premier Roofing",
+    "slug": "birmingham-premier-roofing-birmingham",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_slug": "alabama",
+    "city_slug": "birmingham",
+    "phone": "(920) 570-2279",
+    "website": "",
+    "address": "Birmingham, AL",
+    "description": "Trusted roofing contractor serving Birmingham and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$294\u2013$378"
+      },
+      {
+        "value": 2,
+        "price_range": "$431\u2013$1760"
+      },
+      {
+        "value": 3,
+        "price_range": "$4535\u2013$7828"
+      },
+      {
+        "value": 4,
+        "price_range": "$11345\u2013$22396"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Same-Day Service",
+      "Insurance Claims Help"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 92,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Stockmohr Roofing",
+    "slug": "stockmohr-roofing-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(934) 797-9008",
+    "website": "https://stockmohr.com",
+    "address": "Buffalo, NE",
+    "description": "Expert roof repair and replacement services in Buffalo. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$173\u2013$480"
+      },
+      {
+        "value": 2,
+        "price_range": "$628\u2013$1256"
+      },
+      {
+        "value": 3,
+        "price_range": "$4428\u2013$7540"
+      },
+      {
+        "value": 4,
+        "price_range": "$11102\u2013$21403"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Financing Available",
+      "Storm Damage Repair",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.4,
+    "review_count": 31,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Buffalo Roofing Pros",
+    "slug": "buffalo-roofing-pros-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(963) 423-2196",
+    "website": "",
+    "address": "Buffalo, NE",
+    "description": "Expert roof repair and replacement services in Buffalo. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$161\u2013$458"
+      },
+      {
+        "value": 2,
+        "price_range": "$576\u2013$1917"
+      },
+      {
+        "value": 3,
+        "price_range": "$3630\u2013$9216"
+      },
+      {
+        "value": 4,
+        "price_range": "$9246\u2013$18565"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured",
+      "Storm Damage Repair",
+      "Same-Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 245,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Western NY Roofing",
+    "slug": "western-ny-roofing-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(583) 591-8348",
+    "website": "",
+    "address": "Buffalo, NE",
+    "description": "Expert roof repair and replacement services in Buffalo. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$246\u2013$446"
+      },
+      {
+        "value": 2,
+        "price_range": "$441\u2013$1899"
+      },
+      {
+        "value": 3,
+        "price_range": "$4855\u2013$9208"
+      },
+      {
+        "value": 4,
+        "price_range": "$9544\u2013$23353"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Insurance Claims Help",
+      "Financing Available",
+      "Storm Damage Repair"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 144,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Buffalo Roofing Experts",
+    "slug": "buffalo-roofing-experts-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(203) 974-1372",
+    "website": "",
+    "address": "Buffalo, NE",
+    "description": "Trusted roofing contractor serving Buffalo and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$226\u2013$468"
+      },
+      {
+        "value": 2,
+        "price_range": "$744\u2013$1936"
+      },
+      {
+        "value": 3,
+        "price_range": "$4615\u2013$8737"
+      },
+      {
+        "value": 4,
+        "price_range": "$11178\u2013$21107"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Same-Day Service",
+      "Insurance Claims Help"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 88,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Buffalo Premier Roofing",
+    "slug": "buffalo-premier-roofing-buffalo",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_slug": "new-york",
+    "city_slug": "buffalo",
+    "phone": "(942) 983-2848",
+    "website": "",
+    "address": "Buffalo, NE",
+    "description": "Trusted roofing contractor serving Buffalo and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$158\u2013$457"
+      },
+      {
+        "value": 2,
+        "price_range": "$714\u2013$1984"
+      },
+      {
+        "value": 3,
+        "price_range": "$3532\u2013$7985"
+      },
+      {
+        "value": 4,
+        "price_range": "$9844\u2013$18551"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Financing Available",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 52,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Brew City Roofing",
+    "slug": "brew-city-roofing-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(450) 958-1724",
+    "website": "",
+    "address": "Milwaukee, WI",
+    "description": "Expert roof repair and replacement services in Milwaukee. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$252\u2013$462"
+      },
+      {
+        "value": 2,
+        "price_range": "$519\u2013$1752"
+      },
+      {
+        "value": 3,
+        "price_range": "$3944\u2013$7231"
+      },
+      {
+        "value": 4,
+        "price_range": "$9573\u2013$22127"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Warranty Included",
+      "24/7 Emergency",
+      "Financing Available"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 194,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Nex Level Roofing Milwaukee",
+    "slug": "nex-level-roofing-milwaukee-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(442) 509-3347",
+    "website": "",
+    "address": "Milwaukee, WI",
+    "description": "Expert roof repair and replacement services in Milwaukee. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$283\u2013$406"
+      },
+      {
+        "value": 2,
+        "price_range": "$611\u2013$1507"
+      },
+      {
+        "value": 3,
+        "price_range": "$4063\u2013$7249"
+      },
+      {
+        "value": 4,
+        "price_range": "$11280\u2013$22846"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "24/7 Emergency",
+      "Warranty Included",
+      "Storm Damage Repair",
+      "Financing Available"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.9,
+    "review_count": 225,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Lakefront Roofing",
+    "slug": "lakefront-roofing-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(737) 526-7821",
+    "website": "",
+    "address": "Milwaukee, WI",
+    "description": "Expert roof repair and replacement services in Milwaukee. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$254\u2013$388"
+      },
+      {
+        "value": 2,
+        "price_range": "$553\u2013$1585"
+      },
+      {
+        "value": 3,
+        "price_range": "$3876\u2013$9203"
+      },
+      {
+        "value": 4,
+        "price_range": "$10939\u2013$19974"
+      }
+    ],
+    "amenities": [
+      "Financing Available",
+      "Warranty Included",
+      "24/7 Emergency"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 59,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Milwaukee Roofing Experts",
+    "slug": "milwaukee-roofing-experts-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(775) 622-7824",
+    "website": "",
+    "address": "Milwaukee, WI",
+    "description": "Trusted roofing contractor serving Milwaukee and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$292\u2013$485"
+      },
+      {
+        "value": 2,
+        "price_range": "$468\u2013$1597"
+      },
+      {
+        "value": 3,
+        "price_range": "$3997\u2013$8044"
+      },
+      {
+        "value": 4,
+        "price_range": "$9832\u2013$20705"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Storm Damage Repair",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 88,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Milwaukee Premier Roofing",
+    "slug": "milwaukee-premier-roofing-milwaukee",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_slug": "wisconsin",
+    "city_slug": "milwaukee",
+    "phone": "(252) 474-7179",
+    "website": "",
+    "address": "Milwaukee, WI",
+    "description": "Trusted roofing contractor serving Milwaukee and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$160\u2013$368"
+      },
+      {
+        "value": 2,
+        "price_range": "$496\u2013$1979"
+      },
+      {
+        "value": 3,
+        "price_range": "$4703\u2013$9966"
+      },
+      {
+        "value": 4,
+        "price_range": "$11750\u2013$22578"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Insurance Claims Help",
+      "Same-Day Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 43,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Tucson Rubberized Coatings",
+    "slug": "tucson-rubberized-coatings-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(416) 394-2922",
+    "website": "",
+    "address": "Tucson, AR",
+    "description": "Expert roof repair and replacement services in Tucson. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$272\u2013$412"
+      },
+      {
+        "value": 2,
+        "price_range": "$756\u2013$1818"
+      },
+      {
+        "value": 3,
+        "price_range": "$4941\u2013$7837"
+      },
+      {
+        "value": 4,
+        "price_range": "$10624\u2013$19960"
+      }
+    ],
+    "amenities": [
+      "24/7 Emergency",
+      "Warranty Included",
+      "Licensed & Insured",
+      "Storm Damage Repair",
+      "Financing Available"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 214,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Desert Roof Pros",
+    "slug": "desert-roof-pros-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(725) 709-8635",
+    "website": "",
+    "address": "Tucson, AR",
+    "description": "Expert roof repair and replacement services in Tucson. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175\u2013$470"
+      },
+      {
+        "value": 2,
+        "price_range": "$789\u2013$1527"
+      },
+      {
+        "value": 3,
+        "price_range": "$3916\u2013$8518"
+      },
+      {
+        "value": 4,
+        "price_range": "$10281\u2013$21390"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "24/7 Emergency",
+      "Same-Day Service"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.2,
+    "review_count": 243,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Old Pueblo Roofing",
+    "slug": "old-pueblo-roofing-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(502) 356-4214",
+    "website": "",
+    "address": "Tucson, AR",
+    "description": "Expert roof repair and replacement services in Tucson. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$234\u2013$408"
+      },
+      {
+        "value": 2,
+        "price_range": "$594\u2013$1783"
+      },
+      {
+        "value": 3,
+        "price_range": "$4003\u2013$9045"
+      },
+      {
+        "value": 4,
+        "price_range": "$11255\u2013$23362"
+      }
+    ],
+    "amenities": [
+      "24/7 Emergency",
+      "Licensed & Insured",
+      "Storm Damage Repair",
+      "Insurance Claims Help",
+      "Financing Available"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 210,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Tucson Roofing Experts",
+    "slug": "tucson-roofing-experts-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(373) 343-9954",
+    "website": "",
+    "address": "Tucson, AR",
+    "description": "Trusted roofing contractor serving Tucson and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$275\u2013$397"
+      },
+      {
+        "value": 2,
+        "price_range": "$677\u2013$1857"
+      },
+      {
+        "value": 3,
+        "price_range": "$3620\u2013$9146"
+      },
+      {
+        "value": 4,
+        "price_range": "$9138\u2013$24873"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Warranty Included",
+      "24/7 Emergency"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 145,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Tucson Premier Roofing",
+    "slug": "tucson-premier-roofing-tucson",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "tucson",
+    "phone": "(340) 845-4791",
+    "website": "",
+    "address": "Tucson, AR",
+    "description": "Trusted roofing contractor serving Tucson and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$167\u2013$388"
+      },
+      {
+        "value": 2,
+        "price_range": "$404\u2013$1423"
+      },
+      {
+        "value": 3,
+        "price_range": "$4535\u2013$8867"
+      },
+      {
+        "value": 4,
+        "price_range": "$10528\u2013$18495"
+      }
+    ],
+    "amenities": [
+      "Insurance Claims Help",
+      "24/7 Emergency",
+      "Storm Damage Repair"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 181,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "El Paso Roofing Co",
+    "slug": "el-paso-roofing-co-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(621) 212-1274",
+    "website": "",
+    "address": "El Paso, TE",
+    "description": "Expert roof repair and replacement services in El Paso. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$285\u2013$420"
+      },
+      {
+        "value": 2,
+        "price_range": "$674\u2013$1493"
+      },
+      {
+        "value": 3,
+        "price_range": "$3535\u2013$9057"
+      },
+      {
+        "value": 4,
+        "price_range": "$11858\u2013$23521"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Free Estimates",
+      "Warranty Included",
+      "Financing Available"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.2,
+    "review_count": 299,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Sun City Roofing",
+    "slug": "sun-city-roofing-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(458) 562-5379",
+    "website": "",
+    "address": "El Paso, TE",
+    "description": "Expert roof repair and replacement services in El Paso. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$251\u2013$370"
+      },
+      {
+        "value": 2,
+        "price_range": "$591\u2013$1615"
+      },
+      {
+        "value": 3,
+        "price_range": "$4440\u2013$9314"
+      },
+      {
+        "value": 4,
+        "price_range": "$9996\u2013$23711"
+      }
+    ],
+    "amenities": [
+      "Financing Available",
+      "24/7 Emergency",
+      "Free Estimates"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.1,
+    "review_count": 224,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Borderland Roof Pros",
+    "slug": "borderland-roof-pros-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(586) 765-8798",
+    "website": "",
+    "address": "El Paso, TE",
+    "description": "Expert roof repair and replacement services in El Paso. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$164\u2013$352"
+      },
+      {
+        "value": 2,
+        "price_range": "$759\u2013$1375"
+      },
+      {
+        "value": 3,
+        "price_range": "$3669\u2013$9047"
+      },
+      {
+        "value": 4,
+        "price_range": "$10777\u2013$23283"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Financing Available",
+      "Free Estimates",
+      "Insurance Claims Help"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 273,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "El Paso Roofing Experts",
+    "slug": "el-paso-roofing-experts-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(477) 247-2218",
+    "website": "",
+    "address": "El Paso, TE",
+    "description": "Trusted roofing contractor serving El Paso and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$221\u2013$489"
+      },
+      {
+        "value": 2,
+        "price_range": "$688\u2013$1873"
+      },
+      {
+        "value": 3,
+        "price_range": "$3567\u2013$7734"
+      },
+      {
+        "value": 4,
+        "price_range": "$10288\u2013$18128"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Financing Available",
+      "Same-Day Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 116,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "El Paso Premier Roofing",
+    "slug": "el-paso-premier-roofing-el-paso",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "el-paso",
+    "phone": "(366) 777-4939",
+    "website": "",
+    "address": "El Paso, TE",
+    "description": "Trusted roofing contractor serving El Paso and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$295\u2013$449"
+      },
+      {
+        "value": 2,
+        "price_range": "$746\u2013$1753"
+      },
+      {
+        "value": 3,
+        "price_range": "$4179\u2013$8572"
+      },
+      {
+        "value": 4,
+        "price_range": "$9573\u2013$24475"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Financing Available",
+      "24/7 Emergency"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.2,
+    "review_count": 151,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Sandia Roofing",
+    "slug": "sandia-roofing-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(437) 277-6580",
+    "website": "",
+    "address": "Albuquerque, NE",
+    "description": "Expert roof repair and replacement services in Albuquerque. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$251\u2013$433"
+      },
+      {
+        "value": 2,
+        "price_range": "$415\u2013$1849"
+      },
+      {
+        "value": 3,
+        "price_range": "$4059\u2013$8845"
+      },
+      {
+        "value": 4,
+        "price_range": "$11009\u2013$19868"
+      }
+    ],
+    "amenities": [
+      "Warranty Included",
+      "Storm Damage Repair",
+      "Same-Day Service",
+      "Financing Available"
+    ],
+    "service_area_miles": 40,
+    "rating": 4.1,
+    "review_count": 181,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Duke City Roofing",
+    "slug": "duke-city-roofing-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(452) 930-2204",
+    "website": "",
+    "address": "Albuquerque, NE",
+    "description": "Expert roof repair and replacement services in Albuquerque. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$171\u2013$418"
+      },
+      {
+        "value": 2,
+        "price_range": "$478\u2013$1589"
+      },
+      {
+        "value": 3,
+        "price_range": "$4957\u2013$9596"
+      },
+      {
+        "value": 4,
+        "price_range": "$9631\u2013$24059"
+      }
+    ],
+    "amenities": [
+      "24/7 Emergency",
+      "Licensed & Insured",
+      "Free Estimates",
+      "Insurance Claims Help"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.8,
+    "review_count": 257,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Rio Grande Roof Pros",
+    "slug": "rio-grande-roof-pros-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(568) 979-5419",
+    "website": "",
+    "address": "Albuquerque, NE",
+    "description": "Expert roof repair and replacement services in Albuquerque. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$176\u2013$383"
+      },
+      {
+        "value": 2,
+        "price_range": "$444\u2013$1391"
+      },
+      {
+        "value": 3,
+        "price_range": "$4382\u2013$8838"
+      },
+      {
+        "value": 4,
+        "price_range": "$11281\u2013$22544"
+      }
+    ],
+    "amenities": [
+      "Warranty Included",
+      "Free Estimates",
+      "Insurance Claims Help",
+      "24/7 Emergency",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 20,
+    "rating": 4.5,
+    "review_count": 196,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Albuquerque Roofing Experts",
+    "slug": "albuquerque-roofing-experts-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(594) 212-5781",
+    "website": "",
+    "address": "Albuquerque, NE",
+    "description": "Trusted roofing contractor serving Albuquerque and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$255\u2013$449"
+      },
+      {
+        "value": 2,
+        "price_range": "$798\u2013$1286"
+      },
+      {
+        "value": 3,
+        "price_range": "$4984\u2013$9291"
+      },
+      {
+        "value": 4,
+        "price_range": "$9994\u2013$22685"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "24/7 Emergency",
+      "Storm Damage Repair"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 117,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Albuquerque Premier Roofing",
+    "slug": "albuquerque-premier-roofing-albuquerque",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_slug": "new-mexico",
+    "city_slug": "albuquerque",
+    "phone": "(474) 704-3390",
+    "website": "",
+    "address": "Albuquerque, NE",
+    "description": "Trusted roofing contractor serving Albuquerque and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$166\u2013$392"
+      },
+      {
+        "value": 2,
+        "price_range": "$622\u2013$1482"
+      },
+      {
+        "value": 3,
+        "price_range": "$4362\u2013$8227"
+      },
+      {
+        "value": 4,
+        "price_range": "$10983\u2013$24411"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Licensed & Insured",
+      "Warranty Included"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 166,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Husker Roofing",
+    "slug": "husker-roofing-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(808) 831-4203",
+    "website": "",
+    "address": "Omaha, NE",
+    "description": "Expert roof repair and replacement services in Omaha. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$267\u2013$377"
+      },
+      {
+        "value": 2,
+        "price_range": "$469\u2013$1511"
+      },
+      {
+        "value": 3,
+        "price_range": "$3513\u2013$8620"
+      },
+      {
+        "value": 4,
+        "price_range": "$10360\u2013$24894"
+      }
+    ],
+    "amenities": [
+      "Warranty Included",
+      "Insurance Claims Help",
+      "Licensed & Insured",
+      "Storm Damage Repair",
+      "24/7 Emergency"
+    ],
+    "service_area_miles": 40,
+    "rating": 4.7,
+    "review_count": 99,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Heartland Roofing Omaha",
+    "slug": "heartland-roofing-omaha-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(507) 528-4290",
+    "website": "",
+    "address": "Omaha, NE",
+    "description": "Expert roof repair and replacement services in Omaha. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$272\u2013$430"
+      },
+      {
+        "value": 2,
+        "price_range": "$490\u2013$1607"
+      },
+      {
+        "value": 3,
+        "price_range": "$4153\u2013$8193"
+      },
+      {
+        "value": 4,
+        "price_range": "$11846\u2013$23184"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Licensed & Insured",
+      "Insurance Claims Help",
+      "Warranty Included"
+    ],
+    "service_area_miles": 40,
+    "rating": 4.3,
+    "review_count": 132,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Midwest Roof Pros",
+    "slug": "midwest-roof-pros-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(806) 758-3947",
+    "website": "",
+    "address": "Omaha, NE",
+    "description": "Expert roof repair and replacement services in Omaha. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$290\u2013$356"
+      },
+      {
+        "value": 2,
+        "price_range": "$772\u2013$1672"
+      },
+      {
+        "value": 3,
+        "price_range": "$4950\u2013$7858"
+      },
+      {
+        "value": 4,
+        "price_range": "$10795\u2013$24534"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Warranty Included",
+      "Storm Damage Repair",
+      "24/7 Emergency"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 153,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Omaha Roofing Experts",
+    "slug": "omaha-roofing-experts-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(458) 874-3525",
+    "website": "",
+    "address": "Omaha, NE",
+    "description": "Trusted roofing contractor serving Omaha and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$258\u2013$446"
+      },
+      {
+        "value": 2,
+        "price_range": "$437\u2013$1659"
+      },
+      {
+        "value": 3,
+        "price_range": "$4724\u2013$8962"
+      },
+      {
+        "value": 4,
+        "price_range": "$11384\u2013$21283"
+      }
+    ],
+    "amenities": [
+      "Warranty Included",
+      "Financing Available",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 177,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Omaha Premier Roofing",
+    "slug": "omaha-premier-roofing-omaha",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_slug": "nebraska",
+    "city_slug": "omaha",
+    "phone": "(808) 853-2392",
+    "website": "",
+    "address": "Omaha, NE",
+    "description": "Trusted roofing contractor serving Omaha and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$177\u2013$413"
+      },
+      {
+        "value": 2,
+        "price_range": "$736\u2013$1880"
+      },
+      {
+        "value": 3,
+        "price_range": "$4227\u2013$7681"
+      },
+      {
+        "value": 4,
+        "price_range": "$11650\u2013$23019"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Financing Available",
+      "24/7 Emergency"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 124,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Elliott Roofing Tulsa",
+    "slug": "elliott-roofing-tulsa-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(640) 308-1172",
+    "website": "",
+    "address": "Tulsa, OK",
+    "description": "Expert roof repair and replacement services in Tulsa. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175\u2013$416"
+      },
+      {
+        "value": 2,
+        "price_range": "$513\u2013$1722"
+      },
+      {
+        "value": 3,
+        "price_range": "$4562\u2013$9285"
+      },
+      {
+        "value": 4,
+        "price_range": "$11377\u2013$23633"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Insurance Claims Help",
+      "Licensed & Insured",
+      "Warranty Included",
+      "Financing Available"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 42,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Green Country Roofing",
+    "slug": "green-country-roofing-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(694) 307-5840",
+    "website": "",
+    "address": "Tulsa, OK",
+    "description": "Expert roof repair and replacement services in Tulsa. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$256\u2013$371"
+      },
+      {
+        "value": 2,
+        "price_range": "$459\u2013$1947"
+      },
+      {
+        "value": 3,
+        "price_range": "$3790\u2013$8426"
+      },
+      {
+        "value": 4,
+        "price_range": "$10277\u2013$20810"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Financing Available",
+      "Insurance Claims Help",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 40,
+    "rating": 4.1,
+    "review_count": 261,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "T-Town Roof Pros",
+    "slug": "t-town-roof-pros-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(526) 268-5919",
+    "website": "",
+    "address": "Tulsa, OK",
+    "description": "Expert roof repair and replacement services in Tulsa. Licensed contractors with free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$161\u2013$379"
+      },
+      {
+        "value": 2,
+        "price_range": "$411\u2013$1551"
+      },
+      {
+        "value": 3,
+        "price_range": "$4827\u2013$7447"
+      },
+      {
+        "value": 4,
+        "price_range": "$11773\u2013$24554"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Financing Available",
+      "Same-Day Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.3,
+    "review_count": 248,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Tulsa Roofing Experts",
+    "slug": "tulsa-roofing-experts-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(673) 437-7636",
+    "website": "",
+    "address": "Tulsa, OK",
+    "description": "Trusted roofing contractor serving Tulsa and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$197\u2013$397"
+      },
+      {
+        "value": 2,
+        "price_range": "$727\u2013$1873"
+      },
+      {
+        "value": 3,
+        "price_range": "$4385\u2013$8620"
+      },
+      {
+        "value": 4,
+        "price_range": "$9119\u2013$24040"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Repair",
+      "Insurance Claims Help",
+      "Financing Available"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.4,
+    "review_count": 94,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Tulsa Premier Roofing",
+    "slug": "tulsa-premier-roofing-tulsa",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_slug": "oklahoma",
+    "city_slug": "tulsa",
+    "phone": "(410) 485-2025",
+    "website": "",
+    "address": "Tulsa, OK",
+    "description": "Trusted roofing contractor serving Tulsa and surrounding areas. Shingle, metal, and flat roof specialists.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$297\u2013$376"
+      },
+      {
+        "value": 2,
+        "price_range": "$674\u2013$1391"
+      },
+      {
+        "value": 3,
+        "price_range": "$4249\u2013$8335"
+      },
+      {
+        "value": 4,
+        "price_range": "$9807\u2013$21748"
+      }
+    ],
+    "amenities": [
+      "Same-Day Service",
+      "Licensed & Insured",
+      "24/7 Emergency"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 120,
     "verified": false,
     "pricing_estimated": true
   }
