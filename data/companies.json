@@ -1,0 +1,3392 @@
+[
+  {
+    "name": "Texas Certified Roofing",
+    "slug": "texas-certified-roofing-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 781-8333",
+    "website": "https://www.texascertifiedroofing.com",
+    "address": "Houston, TX",
+    "description": "Expert roof repair and replacement services in Houston. Certified contractors offering same-day service and free estimates.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$300"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,200"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Same-Day Service",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 186,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Moss Roofing Houston",
+    "slug": "moss-roofing-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(832) 840-8027",
+    "website": "https://mossroofinghouston.com",
+    "address": "Houston, TX",
+    "description": "Full-service roofing company handling repair, replacement, and commercial roofing in the greater Houston area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Commercial & Residential",
+      "Free Inspections"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 93,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Texas Top Roofing & Siding",
+    "slug": "texas-top-roofing-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(281) 481-9683",
+    "website": "https://www.txtoproofing.com",
+    "address": "Houston, TX",
+    "description": "Reliable roofing services for commercial and residential properties. Specializing in roof repair, siding, and gutters.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,200"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$20,000"
+      }
+    ],
+    "amenities": [
+      "Siding & Gutters",
+      "Commercial Roofing"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.4,
+    "review_count": 67,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Advanced Roofing Solutions",
+    "slug": "advanced-roofing-solutions-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(832) 952-0907",
+    "website": "https://www.advancedroofinghouston.com",
+    "address": "Houston, TX",
+    "description": "Experienced roofing contractor offering free inspections, emergency service, and comprehensive roof repair and replacement.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,400"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "Emergency Service",
+      "Free Inspections",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 124,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Integris Roofing",
+    "slug": "integris-roofing-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 714-5096",
+    "website": "https://integrisroofing.com",
+    "address": "Houston, TX",
+    "description": "Trusted Houston roofing contractor providing free roof inspections on residential roofs, shingle roofs, metal roofs, and asphalt shingle roofs.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$0–$0"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Roof Inspections",
+      "Metal Roofing",
+      "Shingle Roofing"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 210,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "12 Stones Roofing & Construction",
+    "slug": "12-stones-roofing-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(832) 815-9463",
+    "website": "https://12stonesroofing.com",
+    "address": "6933 Olson Ln, Pasadena, TX 77505",
+    "description": "Highly rated roofing contractor serving the Houston metro area with expert roof repair, replacement, and storm damage restoration.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Restoration",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 155,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Rebuild Texas",
+    "slug": "rebuild-texas-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "",
+    "website": "https://rebuildtx.com",
+    "address": "Dallas, TX",
+    "description": "Voted best roofing company in Dallas-Fort Worth. Specializing in roof repair, replacement, and storm damage restoration.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "Storm Damage",
+      "Insurance Claims",
+      "Top Rated"
+    ],
+    "service_area_miles": 35,
+    "rating": 4.8,
+    "review_count": 312,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "KPost Roofing & Waterproofing",
+    "slug": "kpost-roofing-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "(469) 606-3964",
+    "website": "https://kpostcompany.com",
+    "address": "1841 W. Northwest Highway, Dallas, TX 75220",
+    "description": "Premier commercial and residential roofing contractor in Dallas. Expert waterproofing and roof maintenance services.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$200–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Waterproofing",
+      "Commercial Roofing",
+      "Maintenance Plans"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 178,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Joe Hall Roofing",
+    "slug": "joe-hall-roofing-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "",
+    "website": "",
+    "address": "Dallas, TX",
+    "description": "The Hall name has been associated with roofing in North Texas and the DFW Metroplex since the early 1980s. Trusted local contractor.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "40+ Years Experience",
+      "Family Owned"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 89,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Good Contractors Roofing",
+    "slug": "good-contractors-roofing-fort-worth",
+    "city": "Fort Worth",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "fort-worth",
+    "phone": "",
+    "website": "https://goodcontractorsroofing.com",
+    "address": "Fort Worth, TX",
+    "description": "Veteran-owned roofing contractor with over a decade of experience. Over 66 5-star reviews from real local customers in the DFW metroplex.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "Veteran Owned",
+      "5-Star Rated",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 66,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Holden Roofing",
+    "slug": "holden-roofing-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "",
+    "website": "",
+    "address": "Dallas, TX",
+    "description": "Budget-friendly roofing company serving the DFW area. Reliable service without premium costs for residential and commercial properties.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,100"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,000–$18,000"
+      }
+    ],
+    "amenities": [
+      "Budget Friendly",
+      "Commercial & Residential"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 54,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Colony Roofers",
+    "slug": "colony-roofers-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "(470) 465-9624",
+    "website": "https://colonyroofers.com",
+    "address": "Atlanta, GA",
+    "description": "Best roofing contractor dedicated to durability and craftsmanship. Commercial and residential roofing services with free inspections.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$0–$0"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "Free Inspections",
+      "Commercial & Residential"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 245,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Georgia Home Roofing",
+    "slug": "georgia-home-roofing-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "",
+    "website": "https://georgiahomeroofing.com",
+    "address": "Atlanta, GA",
+    "description": "Leading roofing contractor in Atlanta, known for delivering reliable service and high-quality workmanship on every project.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "High-Quality Workmanship",
+      "Reliable Service"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 132,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Castle Roofing",
+    "slug": "castle-roofing-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "",
+    "website": "https://www.castleroofing.us",
+    "address": "Atlanta, GA",
+    "description": "Top roofing company in Atlanta offering expert service and protection. Get the royal treatment in roofing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Expert Service",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Atlanta Roofing Specialists",
+    "slug": "atlanta-roofing-specialists-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "",
+    "website": "https://atlantaroofingspecialists.com",
+    "address": "Atlanta, GA",
+    "description": "Metro Atlanta's premier roofing company offering residential and commercial roofing, carpentry, and custom metal work.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,500–$25,000"
+      }
+    ],
+    "amenities": [
+      "Custom Metal Work",
+      "Carpentry",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 176,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Atlanta Roof Solutions",
+    "slug": "atlanta-roof-solutions-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "(404) 431-2422",
+    "website": "",
+    "address": "Atlanta, GA",
+    "description": "Trusted local roofing contractor serving the Atlanta metro area with comprehensive roof repair and replacement services.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,200"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$21,000"
+      }
+    ],
+    "amenities": [
+      "Local Contractor",
+      "Insurance Claims"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 87,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "A-Denver Roofing",
+    "slug": "a-denver-roofing-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "",
+    "website": "https://www.a-denverroofing.com",
+    "address": "Denver, CO",
+    "description": "BBB A+ rated roofing company providing exceptional commercial and residential roofing in Denver. Certified experts offering quality solutions.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$200–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$4,000–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "BBB A+ Rated",
+      "Certified Experts",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Core Roofing + Solar",
+    "slug": "core-roofing-solar-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "",
+    "website": "https://coreroofing.com",
+    "address": "Denver, CO",
+    "description": "Premier roofing company offering professional roof inspection, insurance claim handling, metal roofing, asphalt shingles, and solar roofing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,000–$20,000"
+      }
+    ],
+    "amenities": [
+      "Solar Roofing",
+      "Insurance Claims",
+      "Metal Roofing"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 142,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Wilson Brothers Roofing",
+    "slug": "wilson-brothers-roofing-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "",
+    "website": "",
+    "address": "Denver, CO",
+    "description": "Locally owned and operated roofing company founded in 1984. Serving Denver with expert residential and commercial roofing services.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$22,000"
+      }
+    ],
+    "amenities": [
+      "40+ Years Experience",
+      "Family Owned"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 76,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Performance Roofing",
+    "slug": "performance-roofing-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "",
+    "website": "",
+    "address": "Denver, CO",
+    "description": "Family-owned residential and commercial roofing contractor serving Denver, Boulder, and Colorado Springs with confidence.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$375"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "Family Owned",
+      "Wide Service Area"
+    ],
+    "service_area_miles": 40,
+    "rating": 4.4,
+    "review_count": 89,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Metro City Roofing",
+    "slug": "metro-city-roofing-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "",
+    "website": "https://metrocityroofing.com",
+    "address": "Denver, CO",
+    "description": "Top Colorado roofing company installing high-end asphalt shingle roofing from Owens Corning, CertainTeed, and GAF.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$200–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$4,000–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Premium Materials",
+      "Owens Corning Certified"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 234,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Lyons Roofing",
+    "slug": "lyons-roofing-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "",
+    "website": "https://lyonsroofing.com",
+    "address": "Phoenix, AZ",
+    "description": "Best roofing company near Phoenix and Tucson. Serving Arizona since 1993 with nearly perfect reviews and decades of local experience.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,200"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,000–$20,000"
+      }
+    ],
+    "amenities": [
+      "30+ Years Experience",
+      "Rosie Certified"
+    ],
+    "service_area_miles": 40,
+    "rating": 4.9,
+    "review_count": 345,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Rob's Roofing Arizona",
+    "slug": "robs-roofing-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "(833) 410-9663",
+    "website": "https://robsroofingaz.com",
+    "address": "Phoenix, AZ",
+    "description": "GAF Master Elite certified since 1990. Free roof inspections, emergency repairs, complete replacements. Licensed ROC #316378.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$0–$0"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,400"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "GAF Master Elite",
+      "Emergency Repairs",
+      "Free Inspections"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 167,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Scott Roofing",
+    "slug": "scott-roofing-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "",
+    "website": "https://scottroofingco.com",
+    "address": "Phoenix, AZ",
+    "description": "Established Phoenix roofing contractor known for integrity and great customer service. Expert roof repair and replacement.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$375"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,300"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "Great Customer Service",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 134,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Reimagine Roofing",
+    "slug": "reimagine-roofing-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "",
+    "website": "https://www.reimagineroofing.com",
+    "address": "Phoenix, AZ",
+    "description": "Top-rated roofing company with 600+ 5-star reviews. Committed to high-quality, reliable roofing solutions for home or business.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "600+ 5-Star Reviews",
+      "Residential & Commercial"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 612,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Stonecreek Roofing",
+    "slug": "stonecreek-roofing-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "",
+    "website": "https://stonecreekroofingaz.com",
+    "address": "Phoenix, AZ",
+    "description": "Reliable, affordable roofing company in Phoenix known for superior service and craftsmanship. 24/7 availability with direct phone support.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,200"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,000–$20,000"
+      }
+    ],
+    "amenities": [
+      "24/7 Availability",
+      "Affordable Pricing"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "ASI Construction",
+    "slug": "asi-construction-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "",
+    "website": "",
+    "address": "Burr Ridge, IL",
+    "description": "Full-service roofing company serving the entire Chicago metro area. Expert residential and commercial roofing services.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$200–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Full Service",
+      "Metro Coverage"
+    ],
+    "service_area_miles": 35,
+    "rating": 4.5,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Anchor Point Roofing",
+    "slug": "anchor-point-roofing-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "",
+    "website": "",
+    "address": "Chicago, IL",
+    "description": "Highly rated Chicago roofing company providing expert roof repair, replacement, and maintenance for residential properties.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,500–$24,000"
+      }
+    ],
+    "amenities": [
+      "Top Yelp Rating",
+      "Residential Focus"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 87,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Seidel Exterior Group",
+    "slug": "seidel-exterior-group-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "",
+    "website": "",
+    "address": "Chicago, IL",
+    "description": "Atlas and Owens Corning certified residential roofing contractor committed to delivering long-lasting results in the Chicagoland area.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Owens Corning Certified",
+      "Atlas Certified"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 94,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "ECO Roofing Chicago",
+    "slug": "eco-roofing-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "",
+    "website": "https://ecoroofingchicago.com",
+    "address": "Chicago, IL",
+    "description": "Number one roofing contractor in Chicago with excellent work and affordable pricing. Shingles, cedar shake, slate, and metal roofing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$375"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "Affordable Pricing",
+      "All Roof Types"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 156,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Second City Construction",
+    "slug": "second-city-construction-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "",
+    "website": "https://www.secondcityconstruction.com",
+    "address": "Chicago, IL",
+    "description": "BBB A+ rated roofing company with 4.7 Angi, 4.3 Yelp, and 4.3 Google ratings. Best value, service, and warranty in Chicagoland.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,300"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,500–$24,000"
+      }
+    ],
+    "amenities": [
+      "BBB A+ Rated",
+      "Best Warranty"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.3,
+    "review_count": 201,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Best Roofing",
+    "slug": "best-roofing-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "",
+    "website": "https://bestroofing.net",
+    "address": "Miami, FL",
+    "description": "Nearly two decades of five-star roofing services. Timely responses, courteous and professional crews, and best-in-class roofing brands.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$4,000–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Hurricane Rated",
+      "20 Years Experience"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 287,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Perfect Roofing of Florida",
+    "slug": "perfect-roofing-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "",
+    "website": "https://perfectroofingfl.com",
+    "address": "Miami, FL",
+    "description": "One of the best roofing companies in Miami. Expert commercial and residential roof repair and replacement to extend the life of your roof.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "Commercial & Residential",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 143,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Tiger Team Roofing",
+    "slug": "tiger-team-roofing-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "",
+    "website": "",
+    "address": "Miami, FL",
+    "description": "Super fast roofing team that can reroof 2000 SF in 1 day. No BS, gets it done with permits and warranty.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,200"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Fast Turnaround",
+      "Permits Included",
+      "Warranty"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 178,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Hercules Roofing",
+    "slug": "hercules-roofing-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "",
+    "website": "",
+    "address": "Miami, FL",
+    "description": "Proud of high customer satisfaction rate. Roofing systems that meet industry specifications with guaranteed customer satisfaction.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$375"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Industry Certified",
+      "Customer Satisfaction Guarantee"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Rainier Roofing Company",
+    "slug": "rainier-roofing-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "",
+    "website": "",
+    "address": "Seattle, WA",
+    "description": "Top-rated Seattle roofing company specializing in roof repair and replacement for the Pacific Northwest climate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$200–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Pacific NW Specialists",
+      "Top Yelp Rating"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 165,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Patriot Roofing",
+    "slug": "patriot-roofing-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "",
+    "website": "",
+    "address": "Seattle, WA",
+    "description": "Locally owned expert roofing company providing exterior home improvement service to the southern Puget Sound area since 2012.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,500–$24,000"
+      }
+    ],
+    "amenities": [
+      "Locally Owned",
+      "Puget Sound Area"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Orca Roofing & Exteriors",
+    "slug": "orca-roofing-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "",
+    "website": "https://www.orcaroofing.com",
+    "address": "Seattle, WA",
+    "description": "Reputable Seattle roofing contractor offering objective guidance and expert roof repair, replacement, and exterior services.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$4,000–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Exterior Services",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 134,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bill Ragan Roofing",
+    "slug": "bill-ragan-roofing-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "",
+    "website": "https://www.billraganroofing.com",
+    "address": "Nashville, TN",
+    "description": "Nashville roofer serving homeowners in Middle Tennessee since 1990. Lifetime warranty ensures peace of mind and protection.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$375"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "Lifetime Warranty",
+      "35+ Years Experience"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 276,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Don Kennedy Roofing",
+    "slug": "don-kennedy-roofing-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "",
+    "website": "https://donkennedyroofing.com",
+    "address": "Nashville, TN",
+    "description": "Premier Nashville roofing company offering superior quality in everything. Free estimates from trusted local experts.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Superior Quality"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 143,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Nashville Roofing Co",
+    "slug": "nashville-roofing-co-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "",
+    "website": "https://nashvilleroofingco.com",
+    "address": "Nashville, TN",
+    "description": "Trusted, family-owned roofing expert proudly serving Nashville and the greater Middle Tennessee area.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,200"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$21,000"
+      }
+    ],
+    "amenities": [
+      "Family Owned",
+      "Middle TN Coverage"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Best Roofing Now",
+    "slug": "best-roofing-now-charlotte",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "charlotte",
+    "phone": "(704) 605-6047",
+    "website": "https://www.bestroofingnow.com",
+    "address": "Charlotte, NC",
+    "description": "Charlotte's top-rated roofer. 5.0 Google rating, 500+ roofs completed, BBB A+ rated, veteran-owned. Roof repair, replacement, and inspections.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Veteran Owned",
+      "BBB A+ Rated",
+      "5.0 Google Rating"
+    ],
+    "service_area_miles": 30,
+    "rating": 5,
+    "review_count": 187,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Triumph Roofing",
+    "slug": "triumph-roofing-charlotte",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "charlotte",
+    "phone": "",
+    "website": "https://triumphroofingcharlotte.com",
+    "address": "Charlotte, NC",
+    "description": "Charlotte's top roofing company with 5-star ratings and real results. Local favorite for residential roof repair and replacement.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "5-Star Rated",
+      "Local Favorite"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.9,
+    "review_count": 156,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Persevere Roofing",
+    "slug": "persevere-roofing-charlotte",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "charlotte",
+    "phone": "",
+    "website": "",
+    "address": "Charlotte, NC",
+    "description": "Expert roofing team providing free inspections, repairs, and replacements using only high-quality materials. Treats every customer like family.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$0–$0"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Inspections",
+      "High-Quality Materials"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Rhino Roofers",
+    "slug": "rhino-roofers-san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "san-antonio",
+    "phone": "",
+    "website": "https://rhinoroofers.com",
+    "address": "San Antonio, TX",
+    "description": "Expert residential and commercial roofing built to last. San Antonio's trusted roofing contractor.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Commercial & Residential",
+      "Built to Last"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Better Roofing USA",
+    "slug": "better-roofing-usa-san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "san-antonio",
+    "phone": "(210) 971-8684",
+    "website": "https://betterroofingusainc.com",
+    "address": "San Antonio, TX",
+    "description": "Professional roofing repair, replacement, and commercial roofing services in San Antonio and surrounding areas.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,200"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,000–$21,000"
+      }
+    ],
+    "amenities": [
+      "Commercial Roofing",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 87,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bison Roofing",
+    "slug": "bison-roofing-san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "san-antonio",
+    "phone": "(210) 888-9646",
+    "website": "https://bisonroofing.net",
+    "address": "1441 Austin Highway, San Antonio, TX 78209",
+    "description": "Trusted San Antonio roofing contractor providing expert roof repair and replacement services.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "Licensed & Insured",
+      "Local Contractor"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 76,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Kidd Roofing",
+    "slug": "kidd-roofing-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 671-7791",
+    "website": "https://www.kiddroof.com",
+    "address": "Austin, TX",
+    "description": "Award-winning roofing contractor performing top-quality roofing work since 1982. Awards for excellence in contracting and safety.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$375"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "Award Winning",
+      "40+ Years Experience"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 234,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "LOA Roofing & Construction",
+    "slug": "loa-roofing-austin",
+    "city": "Austin",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "austin",
+    "phone": "(512) 375-3654",
+    "website": "https://www.loaconstruction.com",
+    "address": "Austin, TX",
+    "description": "700+ Google reviews with 5-star ratings. Roof replacements and repairs for homes and businesses in the Austin area.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,500–$25,000"
+      }
+    ],
+    "amenities": [
+      "700+ Reviews",
+      "5-Star Rated"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.9,
+    "review_count": 712,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Dolan Roofing & Construction",
+    "slug": "dolan-roofing-san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "san-antonio",
+    "phone": "",
+    "website": "https://www.dolanroofing.com",
+    "address": "San Antonio, TX",
+    "description": "Trusted, locally owned roofing company serving Texas with high-quality roofing, storm restoration, and construction services.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Storm Restoration",
+      "Financing Available"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 134,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Hawthorne General Construction",
+    "slug": "hawthorne-general-construction-portland",
+    "city": "Portland",
+    "state": "Oregon",
+    "state_slug": "oregon",
+    "city_slug": "portland",
+    "phone": "",
+    "website": "",
+    "address": "Portland, OR",
+    "description": "Locally owned and family-run company providing roofing repair and installation for residential customers in Portland.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$4,000–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Family Owned",
+      "Residential Focus"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 87,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Best Choice Roofing Portland",
+    "slug": "best-choice-roofing-portland",
+    "city": "Portland",
+    "state": "Oregon",
+    "state_slug": "oregon",
+    "city_slug": "portland",
+    "phone": "",
+    "website": "https://bestchoiceroofing.com",
+    "address": "Portland, OR",
+    "description": "National roofing contractor with local Portland presence. Expert storm damage identification and community-focused service.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,500–$24,000"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Experts",
+      "National Company"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Best Choice Roofing Las Vegas",
+    "slug": "best-choice-roofing-las-vegas",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "state_slug": "nevada",
+    "city_slug": "las-vegas",
+    "phone": "",
+    "website": "https://bestchoiceroofing.com",
+    "address": "Las Vegas, NV",
+    "description": "Expert roofing contractor serving Las Vegas with storm damage identification, roof repair, and full replacement services.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,200"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,000–$20,000"
+      }
+    ],
+    "amenities": [
+      "Storm Damage Experts",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "The Best Roofing Company MN",
+    "slug": "the-best-roofing-company-minneapolis",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "state_slug": "minnesota",
+    "city_slug": "minneapolis",
+    "phone": "",
+    "website": "https://www.thebestroofingcompanymn.com",
+    "address": "Minneapolis, MN",
+    "description": "Roofing contractor in Minnesota with 20+ years of experience. Specializing in roofing and exterior renovations in Minneapolis and St. Paul.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$200–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$4,000–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "20+ Years Experience",
+      "Exterior Renovations"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 156,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "American Roofing & Siding",
+    "slug": "american-roofing-siding-minneapolis",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "state_slug": "minnesota",
+    "city_slug": "minneapolis",
+    "phone": "",
+    "website": "",
+    "address": "Minneapolis, MN",
+    "description": "Comprehensive interior and exterior home services across Minneapolis and the Twin Cities. Known for integrity and reliable service.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "Siding Services",
+      "Twin Cities Coverage"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Foremost Exteriors",
+    "slug": "foremost-exteriors-minneapolis",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "state_slug": "minnesota",
+    "city_slug": "minneapolis",
+    "phone": "",
+    "website": "",
+    "address": "Savage, MN",
+    "description": "Serving the Minneapolis area with roof repairs and replacements including shingle, commercial, metal, and designer roofing.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Metal Roofing",
+      "Designer Roofing",
+      "Commercial"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 87,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Final Touch Roofing",
+    "slug": "final-touch-roofing-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "",
+    "website": "",
+    "address": "Los Angeles, CA",
+    "description": "Top-rated Los Angeles roofing company providing expert roof repair and replacement services for residential and commercial properties.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$4,000–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$12,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Top Yelp Rating",
+      "Residential & Commercial"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Reign Roofing LA",
+    "slug": "reign-roofing-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "",
+    "website": "",
+    "address": "Los Angeles, CA",
+    "description": "Family-owned and operated, delivering expert craftsmanship to every job. Roof installations, repairs, and full replacements.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$200–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$11,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Family Owned",
+      "Expert Craftsmanship"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 134,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "EBA Roofing",
+    "slug": "eba-roofing-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "",
+    "website": "",
+    "address": "Los Angeles, CA",
+    "description": "Professional, quick, and clean roofing crew. High quality re-roofing that easily passes inspection and looks fantastic.",
+    "services": [
+      {
+        "value": 3,
+        "price_range": "$4,000–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$11,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Professional Crew",
+      "Quick Turnaround"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 87,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Baker Roofing Company",
+    "slug": "baker-roofing-raleigh",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "raleigh",
+    "phone": "",
+    "website": "https://bakerroofing.com",
+    "address": "Raleigh, NC",
+    "description": "The nation's top roofing contractor with operations in Raleigh, Charleston, Asheville, and Greensboro. Expert residential and commercial roofing.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$375"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "National Company",
+      "Commercial & Residential"
+    ],
+    "service_area_miles": 35,
+    "rating": 4.6,
+    "review_count": 312,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "My Trusted Roofer",
+    "slug": "my-trusted-roofer-raleigh",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "raleigh",
+    "phone": "",
+    "website": "https://mytrustedroofer.com",
+    "address": "Raleigh, NC",
+    "description": "Triangle's trusted roofing company serving Raleigh, NC with the best workmanship and warranty in the area.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Best Warranty",
+      "Triangle Area Coverage"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 145,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "RoofServ",
+    "slug": "roofserv-raleigh",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "raleigh",
+    "phone": "",
+    "website": "https://roofserv.com",
+    "address": "Raleigh, NC",
+    "description": "Top rated roofing company serving the Southeast with locations in Atlanta, GA, Raleigh, NC and Charleston, SC.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "Southeast Coverage",
+      "Top Rated"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Premier Roofing and Contracting",
+    "slug": "premier-roofing-san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "san-antonio",
+    "phone": "(210) 867-6001",
+    "website": "https://www.premierroofingandcontracting.com",
+    "address": "San Antonio, TX",
+    "description": "Top-rated roofing services serving Austin, San Antonio, and Fort Worth. Excellent communication and fair pricing on roof replacements.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "Multi-City Coverage",
+      "Fair Pricing"
+    ],
+    "service_area_miles": 35,
+    "rating": 4.8,
+    "review_count": 167,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Mr. Roof Nashville",
+    "slug": "mr-roof-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "",
+    "website": "https://www.mrroof.com/nashville",
+    "address": "Nashville, TN",
+    "description": "Largest residential roofer in Nashville. Lifetime warranty and 24-hour turnaround on most jobs for residential and commercial exteriors.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,200"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Lifetime Warranty",
+      "24-Hour Turnaround"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 234,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "TraVek Roofing",
+    "slug": "travek-roofing-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "",
+    "website": "",
+    "address": "Phoenix, AZ",
+    "description": "Trusted roofing partner in Arizona with top-tier warranties, excellent reviews, and deep understanding of Arizona homes.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$375"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Top-Tier Warranties",
+      "Arizona Specialists"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 189,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Amstill Roofing",
+    "slug": "amstill-roofing-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(281) 612-8747",
+    "website": "https://amstillroofing.com",
+    "address": "Houston, TX",
+    "description": "Expert roof repair, replacement, and inspections serving Houston and surrounding areas. Trusted roofing services.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Expert Inspections",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 143,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Morales Roofers",
+    "slug": "morales-roofers-dallas",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "dallas",
+    "phone": "",
+    "website": "",
+    "address": "Dallas, TX",
+    "description": "Renowned family-run roofing company in Dallas Fort Worth with a multi-generational legacy. Licensed, certified and insured.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,200"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,000–$20,000"
+      }
+    ],
+    "amenities": [
+      "Family Run",
+      "Multi-Generational",
+      "Certified"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 167,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "J & K Roofing",
+    "slug": "j-k-roofing-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "",
+    "website": "",
+    "address": "Denver, CO",
+    "description": "Trusted Denver roofing contractor specializing in asphalt shingles, synthetic slate and shake, roll roofing, and TPO roofing systems.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "All Roof Types",
+      "TPO Roofing"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "730 South Exteriors Roofing",
+    "slug": "730-south-exteriors-denver",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_slug": "colorado",
+    "city_slug": "denver",
+    "phone": "",
+    "website": "",
+    "address": "Denver, CO",
+    "description": "Smooth contractor experience with solid communication and top tier workmanship. Highly recommended Denver roofing company.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Top Tier Workmanship",
+      "Excellent Communication"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 76,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "FIX UP Roofing",
+    "slug": "fix-up-roofing-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "",
+    "website": "",
+    "address": "Miami, FL",
+    "description": "Top-tier residential roofing and remodeling services for over 14 years. Excellence, integrity, and detailed attention in South Florida.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$4,000–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "14+ Years Experience",
+      "Remodeling Services"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Del Sol Roofing",
+    "slug": "del-sol-roofing-miami",
+    "city": "Miami",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "miami",
+    "phone": "",
+    "website": "",
+    "address": "Miami, FL",
+    "description": "Top ten roofing company with exceptional customer service and expert roof repair and maintenance. 100% satisfaction guarantee.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "100% Satisfaction Guarantee",
+      "Expert Maintenance"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 167,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Lifetime Flat Roofs",
+    "slug": "lifetime-flat-roofs-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "",
+    "website": "",
+    "address": "Seattle, WA",
+    "description": "Seattle's leader in flat roof systems since 1998. Specialized tools and training for perfect flat roof installations of all types.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$4,000–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Flat Roof Specialists",
+      "25+ Years Experience"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 89,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Martin Roofing Services",
+    "slug": "martin-roofing-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "",
+    "website": "",
+    "address": "Nashville, TN",
+    "description": "Top-rated Nashville roofing contractor on Yelp providing quality residential roof repair, replacement, and maintenance.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$21,000"
+      }
+    ],
+    "amenities": [
+      "Top Yelp Rating",
+      "Residential Focus"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Elite Roof and Solar",
+    "slug": "elite-roof-solar-charlotte",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "charlotte",
+    "phone": "",
+    "website": "",
+    "address": "Charlotte, NC",
+    "description": "Charlotte's top Yelp-rated roofing and solar company. Expert roof repair, replacement, and solar panel installation.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "Solar Installation",
+      "Top Yelp Rating"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.8,
+    "review_count": 134,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "1st National Roofing",
+    "slug": "1st-national-roofing-charlotte",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_slug": "north-carolina",
+    "city_slug": "charlotte",
+    "phone": "",
+    "website": "",
+    "address": "Charlotte, NC",
+    "description": "Established in 2009, serving Charlotte residents with roof repairs, replacements for leaking, old, and storm-damaged roofs.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Storm Damage",
+      "15+ Years Experience"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "IRC Roofing",
+    "slug": "irc-roofing-san-antonio",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "san-antonio",
+    "phone": "(210) 926-9288",
+    "website": "https://www.ircroofingsa.com",
+    "address": "San Antonio, TX",
+    "description": "The best roofing company in San Antonio with years of hands-on roof repair and replacement experience. Also serving Austin.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Hands-On Experience",
+      "San Antonio & Austin"
+    ],
+    "service_area_miles": 40,
+    "rating": 4.6,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Williams Roofing & Insulation",
+    "slug": "williams-roofing-chicago",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_slug": "illinois",
+    "city_slug": "chicago",
+    "phone": "",
+    "website": "",
+    "address": "Morton Grove, IL",
+    "description": "Local, family-owned company founded in 2010 serving Chicago and surrounding areas. Quality products and craftsmanship.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,500–$24,000"
+      }
+    ],
+    "amenities": [
+      "Family Owned",
+      "Insulation Services"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 76,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Exovations Roofing",
+    "slug": "exovations-roofing-atlanta",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_slug": "georgia",
+    "city_slug": "atlanta",
+    "phone": "",
+    "website": "https://exovations.com/roofing",
+    "address": "Atlanta, GA",
+    "description": "Experienced roofing specialists conducting detailed roof inspections. Serving Atlanta, Cumming, Sandy Springs, Roswell, Marietta, and Alpharetta.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$0–$0"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "Free Inspections",
+      "Wide Service Area"
+    ],
+    "service_area_miles": 35,
+    "rating": 4.7,
+    "review_count": 189,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Royal Roofing Company",
+    "slug": "royal-roofing-los-angeles",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_slug": "california",
+    "city_slug": "los-angeles",
+    "phone": "",
+    "website": "",
+    "address": "Los Angeles, CA",
+    "description": "Expert roofing services for all roof types in Los Angeles. Trusted California roofing contractor for residential and commercial properties.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$200–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$4,000–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$12,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "All Roof Types",
+      "Residential & Commercial"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Storm Guard Nashville",
+    "slug": "storm-guard-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "",
+    "website": "https://www.stormguardrc.com/tn/nashville",
+    "address": "Nashville, TN",
+    "description": "Trusted roofer in Nashville delivering expert service and materials. 930+ 5-star reviews. Free estimates available.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "930+ 5-Star Reviews",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 934,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Sentri Roofing",
+    "slug": "sentri-roofing-nashville",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_slug": "tennessee",
+    "city_slug": "nashville",
+    "phone": "",
+    "website": "https://www.sentriroofing.com",
+    "address": "Nashville, TN",
+    "description": "Leader roofing company in Nashville for top commercial and residential services tailored to the local climate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "Climate Tailored",
+      "Commercial & Residential"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 87,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Arizona Roofers",
+    "slug": "arizona-roofers-phoenix",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_slug": "arizona",
+    "city_slug": "phoenix",
+    "phone": "",
+    "website": "https://arizonaroofers.com",
+    "address": "Phoenix, AZ",
+    "description": "Local Phoenix roofing experts with deep knowledge of Arizona roofing needs. Residential and commercial services.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,200"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,000–$20,000"
+      }
+    ],
+    "amenities": [
+      "Local Experts",
+      "Arizona Specialists"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 145,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Three Tree Roofing",
+    "slug": "three-tree-roofing-seattle",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_slug": "washington",
+    "city_slug": "seattle",
+    "phone": "",
+    "website": "",
+    "address": "Seattle, WA",
+    "description": "Highly rated Seattle roofing company providing expert residential roofing services for the unique Pacific Northwest climate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$200–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 3,
+        "price_range": "$4,000–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Pacific NW Climate Experts",
+      "Residential Focus"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Tampa Bay Roofing",
+    "slug": "tampa-bay-roofing-tampa",
+    "city": "Tampa",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "tampa",
+    "phone": "",
+    "website": "",
+    "address": "Tampa, FL",
+    "description": "Expert roofing services for the Tampa Bay area. Residential and commercial roof repair and replacement.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "Tampa Bay Coverage"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Bay to Bay Roofing",
+    "slug": "bay-to-bay-roofing-tampa",
+    "city": "Tampa",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "tampa",
+    "phone": "",
+    "website": "",
+    "address": "Tampa, FL",
+    "description": "Trusted Tampa roofing contractor specializing in hurricane-rated roof installations and storm damage repair.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$400–$1,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$10,000–$25,000"
+      }
+    ],
+    "amenities": [
+      "Hurricane Rated",
+      "Storm Damage"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.7,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Orlando Roofing Pros",
+    "slug": "orlando-roofing-pros-orlando",
+    "city": "Orlando",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "orlando",
+    "phone": "",
+    "website": "",
+    "address": "Orlando, FL",
+    "description": "Full-service Orlando roofing company providing repair, replacement, and maintenance for residential and commercial properties.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Full Service",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 87,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Central Florida Roofing",
+    "slug": "central-florida-roofing-orlando",
+    "city": "Orlando",
+    "state": "Florida",
+    "state_slug": "florida",
+    "city_slug": "orlando",
+    "phone": "",
+    "website": "",
+    "address": "Orlando, FL",
+    "description": "Central Florida roofing experts with extensive experience in all roof types including tile, shingle, and metal.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$8,000"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "All Roof Types",
+      "Central FL Coverage"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 134,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Columbus Roof Masters",
+    "slug": "columbus-roof-masters-columbus",
+    "city": "Columbus",
+    "state": "Ohio",
+    "state_slug": "ohio",
+    "city_slug": "columbus",
+    "phone": "",
+    "website": "",
+    "address": "Columbus, OH",
+    "description": "Expert roofing services in Columbus, Ohio. Specializing in residential roof repair and replacement.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$375"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "Residential Focus",
+      "Free Estimates"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.6,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Buckeye Roofing",
+    "slug": "buckeye-roofing-columbus",
+    "city": "Columbus",
+    "state": "Ohio",
+    "state_slug": "ohio",
+    "city_slug": "columbus",
+    "phone": "",
+    "website": "",
+    "address": "Columbus, OH",
+    "description": "Trusted Columbus roofing contractor providing quality roof repair, replacement, and storm damage restoration.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Storm Damage",
+      "Quality Work"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 76,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Indy Roof Company",
+    "slug": "indy-roof-company-indianapolis",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "state_slug": "indiana",
+    "city_slug": "indianapolis",
+    "phone": "",
+    "website": "",
+    "address": "Indianapolis, IN",
+    "description": "Indianapolis roofing experts delivering quality craftsmanship for residential and commercial roof repair and replacement.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$375"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "Quality Craftsmanship",
+      "Free Estimates"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 145,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Circle City Roofing",
+    "slug": "circle-city-roofing-indianapolis",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "state_slug": "indiana",
+    "city_slug": "indianapolis",
+    "phone": "",
+    "website": "",
+    "address": "Indianapolis, IN",
+    "description": "Trusted Indianapolis roofing contractor with comprehensive residential and commercial roofing services.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,000–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Comprehensive Service",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 25,
+    "rating": 4.5,
+    "review_count": 87,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "KC Roofing Pros",
+    "slug": "kc-roofing-pros-kansas-city",
+    "city": "Kansas City",
+    "state": "Missouri",
+    "state_slug": "missouri",
+    "city_slug": "kansas-city",
+    "phone": "",
+    "website": "",
+    "address": "Kansas City, MO",
+    "description": "Kansas City roofing experts providing top-quality roof repair, replacement, and storm damage services.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$150–$350"
+      },
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 4,
+        "price_range": "$8,500–$22,000"
+      }
+    ],
+    "amenities": [
+      "Storm Damage",
+      "Top Quality"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Heartland Roofing",
+    "slug": "heartland-roofing-kansas-city",
+    "city": "Kansas City",
+    "state": "Missouri",
+    "state_slug": "missouri",
+    "city_slug": "kansas-city",
+    "phone": "",
+    "website": "",
+    "address": "Kansas City, MO",
+    "description": "Heartland roofing contractor serving the KC metro with expert residential and commercial roofing solutions.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "KC Metro Coverage",
+      "Expert Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 89,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Salt Lake Roofing",
+    "slug": "salt-lake-roofing-salt-lake-city",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "state_slug": "utah",
+    "city_slug": "salt-lake-city",
+    "phone": "",
+    "website": "",
+    "address": "Salt Lake City, UT",
+    "description": "Premier Salt Lake City roofing company specializing in all roof types for the unique Utah mountain climate.",
+    "services": [
+      {
+        "value": 1,
+        "price_range": "$175–$400"
+      },
+      {
+        "value": 2,
+        "price_range": "$350–$1,400"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$24,000"
+      }
+    ],
+    "amenities": [
+      "Mountain Climate Experts",
+      "All Roof Types"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.6,
+    "review_count": 98,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Wasatch Roofing",
+    "slug": "wasatch-roofing-salt-lake-city",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "state_slug": "utah",
+    "city_slug": "salt-lake-city",
+    "phone": "",
+    "website": "",
+    "address": "Salt Lake City, UT",
+    "description": "Trusted Wasatch Front roofing contractor providing quality roof repair and replacement services throughout Utah.",
+    "services": [
+      {
+        "value": 2,
+        "price_range": "$300–$1,300"
+      },
+      {
+        "value": 3,
+        "price_range": "$3,500–$7,500"
+      },
+      {
+        "value": 4,
+        "price_range": "$9,000–$23,000"
+      }
+    ],
+    "amenities": [
+      "Wasatch Front Coverage",
+      "Quality Service"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.5,
+    "review_count": 76,
+    "verified": false,
+    "pricing_estimated": true
+  }
+]
