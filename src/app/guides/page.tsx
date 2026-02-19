@@ -12,6 +12,16 @@ export const metadata: Metadata = {
  */
 const GUIDES = [
   {
+    slug: 'how-to-choose-roofing-contractor',
+    title: 'How to Choose a Roofing Contractor',
+    excerpt: 'State licensing, insurance requirements, written estimates, material options, warranty types, and red flags.',
+  },
+  {
+    slug: 'signs-you-need-new-roof',
+    title: 'Signs You Need a New Roof: 10 Warning Signs',
+    excerpt: '10 warning signs with descriptions, a DIY inspection checklist, and a repair vs replace decision guide.',
+  },
+  {
     slug: 'getting-started',
     title: `Getting Started with ${config.industry.singular}`,
     excerpt: 'Everything you need to know before hiring a provider.',
