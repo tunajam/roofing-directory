@@ -1,6 +1,14 @@
 import Link from 'next/link';
 import { Company } from '@/lib/data';
 import { config } from '@/lib/config';
+import { MapPin, Phone, Star, SealCheck } from '@phosphor-icons/react/dist/ssr';
+
+const serviceLabels: Record<number, string> = {
+  1: 'Inspection',
+  2: 'Repair',
+  3: 'Partial Re-roof',
+  4: 'Full Replacement',
+};
 
 export default function CompanyCard({ company }: { company: Company }) {
   const lowestPrice = company.services[0]?.price_range.split('–')[0] || 'N/A';
@@ -14,12 +22,12 @@ export default function CompanyCard({ company }: { company: Company }) {
     >
       <div className="flex justify-between items-start mb-3">
         <div className="flex items-center gap-2">
-          <h3 className="text-lg font-semibold text-primary group-hover:text-accent-dark transition-colors">
+          <h3 className="text-lg font-semibold text-primary group-hover:text-accent transition-colors">
             {company.name}
           </h3>
           {isVerified && (
-            <span className="bg-green-100 text-green-700 px-1.5 py-0.5 rounded text-xs font-medium">
-              ✓ Verified
+            <span className="inline-flex items-center gap-1 bg-green-100 text-green-700 px-1.5 py-0.5 rounded text-xs font-medium">
+              <SealCheck size={12} weight="fill" /> Verified
             </span>
           )}
         </div>
@@ -32,17 +40,29 @@ export default function CompanyCard({ company }: { company: Company }) {
         </span>
       </div>
 
-      <p className="text-sm text-gray-500">
-        📍 {company.city}, {company.state}
-        {company.phone && <span className="ml-3">📞 {company.phone}</span>}
-      </p>
+      <div className="flex items-center gap-4 text-sm text-gray-500">
+        <span className="inline-flex items-center gap-1">
+          <MapPin size={14} weight="fill" className="text-gray-400" />
+          {company.city}, {company.state}
+        </span>
+        {company.phone && (
+          <span className="inline-flex items-center gap-1">
+            <Phone size={14} weight="fill" className="text-gray-400" />
+            {company.phone}
+          </span>
+        )}
+        <span className="inline-flex items-center gap-1">
+          <Star size={14} weight="fill" className="text-yellow-400" />
+          {company.rating} ({company.review_count})
+        </span>
+      </div>
 
       <p className="text-sm text-gray-600 mt-3 line-clamp-2">{company.description}</p>
 
       <div className="flex flex-wrap gap-2 mt-4">
         {company.services.map((s) => (
-          <span key={s.value} className="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded-full">
-            {s.value} {config.serviceOptions.unit}
+          <span key={s.value} className="text-xs bg-accent/10 text-accent-dark px-2 py-1 rounded-full">
+            {serviceLabels[s.value] || `Service ${s.value}`}
           </span>
         ))}
       </div>

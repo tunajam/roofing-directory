@@ -28,10 +28,10 @@ const siteConfig = {
     label: 'Service Type',
     unit: '',
     options: [
-      { value: 1, label: 'Roof Inspection', description: 'Comprehensive roof assessment and condition report', capacity: '$150–$400' },
-      { value: 2, label: 'Roof Repair', description: 'Leak fixes, shingle replacement, flashing repair', capacity: '$300–$1,500' },
-      { value: 3, label: 'Partial Re-roof', description: 'Section replacement for localized damage', capacity: '$3,000–$8,000' },
-      { value: 4, label: 'Full Replacement', description: 'Complete tear-off and new roof installation', capacity: '$8,000–$25,000+' },
+      { value: 1, label: 'Inspection', icon: '🔍', description: 'Comprehensive roof assessment and condition report', capacity: '$150–$400' },
+      { value: 2, label: 'Repair', icon: '🔧', description: 'Leak fixes, shingle replacement, flashing repair', capacity: '$300–$1,500' },
+      { value: 3, label: 'Partial Re-roof', icon: '🏗️', description: 'Section replacement for localized damage', capacity: '$3,000–$8,000' },
+      { value: 4, label: 'Full Replacement', icon: '🏠', description: 'Complete tear-off and new roof installation', capacity: '$8,000–$25,000+' },
     ],
   },
 
@@ -47,7 +47,7 @@ const siteConfig = {
     primary: '#1e293b',        // slate-800
     primaryLight: '#334155',   // slate-700
     primaryDark: '#0f172a',    // slate-900
-    accent: '#2563eb',         // blue-600
+    accent: '#2563eb',         // blue-600 — trust-building blue
     accentLight: '#3b82f6',    // blue-500
     accentDark: '#1d4ed8',     // blue-700
   },
