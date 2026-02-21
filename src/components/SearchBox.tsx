@@ -93,7 +93,7 @@ export default function SearchBox() {
         />
         <button
           type="submit"
-          className="px-6 py-3.5 bg-accent hover:bg-accent-dark text-primary font-semibold rounded-r-xl transition-colors text-sm whitespace-nowrap"
+          className="px-6 py-3.5 bg-accent hover:bg-accent-dark text-white font-semibold rounded-r-xl transition-colors text-sm whitespace-nowrap"
         >
           {t(config.hero.searchButton, { industryPlural: config.industry.plural })}
         </button>

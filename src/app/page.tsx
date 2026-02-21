@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { getCities } from '@/lib/data';
 import { config, t } from '@/lib/config';
 import SearchBox from '@/components/SearchBox';
+import { MagnifyingGlass, ChartBar, Receipt } from '@phosphor-icons/react/dist/ssr';
 
 export default function HomePage() {
   const cities = getCities();
@@ -80,15 +81,22 @@ export default function HomePage() {
         <div className="max-w-5xl mx-auto">
           <h2 className="text-3xl font-bold text-center text-primary mb-12">How It Works</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {config.steps.map((step, i) => (
+            {config.steps.map((step, i) => {
+              const icons = [
+                <MagnifyingGlass key="search" size={28} weight="bold" />,
+                <ChartBar key="compare" size={28} weight="bold" />,
+                <Receipt key="quote" size={28} weight="bold" />,
+              ];
+              return (
               <div key={i} className="text-center">
-                <div className="w-14 h-14 bg-accent text-primary rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-4">
-                  {i + 1}
+                <div className="w-14 h-14 bg-accent text-white rounded-full flex items-center justify-center mx-auto mb-4">
+                  {icons[i]}
                 </div>
                 <h3 className="font-semibold text-lg text-primary mb-2">{step.title}</h3>
                 <p className="text-gray-600 text-sm">{step.description}</p>
               </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </section>
@@ -126,10 +134,10 @@ export default function HomePage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             {config.serviceOptions.options.map((opt) => (
               <div key={opt.value} className="bg-white border border-gray-200 rounded-xl p-6 text-center">
-                <div className="text-4xl font-bold text-accent mb-1">{opt.value}</div>
-                <div className="text-sm font-medium text-primary mb-3">{config.serviceOptions.unit}</div>
+                <div className="text-4xl mb-2">{opt.icon}</div>
+                <div className="text-lg font-bold text-primary mb-1">{opt.label}</div>
                 <p className="text-sm text-gray-600 mb-2">{opt.description}</p>
-                <p className="text-xs text-gray-400">{opt.capacity}</p>
+                <p className="text-sm font-semibold text-accent">{opt.capacity}</p>
               </div>
             ))}
           </div>

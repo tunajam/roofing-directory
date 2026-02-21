@@ -87,7 +87,7 @@ export default function QuoteForm({ companyName, companySlug }: { companyName: s
       <button
         type="submit"
         disabled={loading}
-        className="w-full bg-accent hover:bg-accent-dark text-primary font-semibold py-3 rounded-lg transition-colors disabled:opacity-50"
+        className="w-full bg-accent hover:bg-accent-dark text-white font-semibold py-3 rounded-lg transition-colors disabled:opacity-50"
       >
         {loading ? 'Sending...' : config.quoteForm.submitButton}
       </button>
