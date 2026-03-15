@@ -814,5 +814,1338 @@
     "review_count": 30,
     "verified": false,
     "pricing_estimated": true
+  },
+  {
+    "name": "Priority Roofing",
+    "slug": "priority-roofing-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(281) 380-0357",
+    "website": "",
+    "address": "260 N Sam Houston Pkwy E Suite 150, Houston, TX 77060",
+    "description": "Priority Roofing provides expert roofing services in Houston. Rated 5/5 from 342 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 5,
+    "review_count": 342,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Roof Squad",
+    "slug": "roof-squad-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 489-8064",
+    "website": "",
+    "address": "19407 Park Row Blvd Suite 130, Houston, TX 77084",
+    "description": "Roof Squad provides expert roofing services in Houston. Rated 5/5 from 503 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 5,
+    "review_count": 503,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "TrueWorks Roofing",
+    "slug": "trueworks-roofing-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 903-7663",
+    "website": "",
+    "address": "8566 Katy Fwy Suite 122, Houston, TX 77024",
+    "description": "TrueWorks Roofing provides expert roofing services in Houston. Rated 5/5 from 243 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 5,
+    "review_count": 243,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "314 Roofing Solutions",
+    "slug": "314-roofing-solutions-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(832) 909-1681",
+    "website": "",
+    "address": "6824 North Sam Houston Pkwy W, Houston, TX 77064",
+    "description": "314 Roofing Solutions provides expert roofing services in Houston. Rated 5/5 from 1142 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 5,
+    "review_count": 1142,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "All Over Exterior Roofing",
+    "slug": "all-over-exterior-roofing-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(281) 846-6665",
+    "website": "",
+    "address": "10050 Northwest Fwy Suite 130, Houston, TX 77092",
+    "description": "All Over Exterior Roofing provides expert roofing services in Houston. Rated 5/5 from 239 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 5,
+    "review_count": 239,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Achilles Roofing & Exterior",
+    "slug": "achilles-roofing-exterior-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(832) 353-2383",
+    "website": "",
+    "address": "1919 W Sam Houston Pkwy N, Houston, TX 77043",
+    "description": "Achilles Roofing & Exterior provides expert roofing services in Houston. Rated 5/5 from 371 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 5,
+    "review_count": 371,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Moss Roofing Houston",
+    "slug": "moss-roofing-houston-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(832) 840-8027",
+    "website": "",
+    "address": "13100 Wortham Center Dr 3rd floor, Houston, TX 77065",
+    "description": "Moss Roofing Houston provides expert roofing services in Houston. Rated 5/5 from 612 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 5,
+    "review_count": 612,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Asap Roof Repair",
+    "slug": "asap-roof-repair-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(346) 651-3340",
+    "website": "",
+    "address": "10107 Burgoyne Rd, Houston, TX 77042",
+    "description": "Asap Roof Repair provides expert roofing services in Houston. Rated 5/5 from 198 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 5,
+    "review_count": 198,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Results Roofing Houston",
+    "slug": "results-roofing-houston-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(281) 779-8743",
+    "website": "",
+    "address": "1201 Fannin St Suite 262, Houston, TX 77002",
+    "description": "Results Roofing Houston provides expert roofing services in Houston. Rated 5/5 from 45 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 5,
+    "review_count": 45,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "H Town Roof & Constructions LLC.",
+    "slug": "h-town-roof-constructions-llc-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(346) 667-7118",
+    "website": "",
+    "address": "7055 Old Katy Rd, Houston, TX 77024",
+    "description": "H Town Roof & Constructions LLC. provides expert roofing services in Houston. Rated 5/5 from 73 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 5,
+    "review_count": 73,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "TX Roofing & Services",
+    "slug": "tx-roofing-services-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(786) 797-9134",
+    "website": "",
+    "address": "2855 Mangum Rd Unit B201B, Houston, TX 77092",
+    "description": "TX Roofing & Services provides expert roofing services in Houston. Rated 4.9/5 from 84 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 84,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Remodeland Roofing Company",
+    "slug": "remodeland-roofing-company-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(832) 329-7222",
+    "website": "",
+    "address": "10810 Katy Fwy Ste 200, Houston, TX 77043",
+    "description": "Remodeland Roofing Company provides expert roofing services in Houston. Rated 4.9/5 from 110 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 110,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Houston Roofing Experts",
+    "slug": "houston-roofing-experts-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 291-3866",
+    "website": "",
+    "address": "1430 Yale St, Houston, TX 77008",
+    "description": "Houston Roofing Experts provides expert roofing services in Houston. Rated 4.9/5 from 112 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 112,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "State Roofing Company",
+    "slug": "state-roofing-company-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(281) 293-7000",
+    "website": "",
+    "address": "318 Addicks-Howell Rd, Houston, TX 77079",
+    "description": "State Roofing Company provides expert roofing services in Houston. Rated 4.9/5 from 135 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 135,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Precision Roof Crafters, Inc.",
+    "slug": "precision-roof-crafters-inc-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 497-1211",
+    "website": "",
+    "address": "3919 Jeanetta St, Houston, TX 77063",
+    "description": "Precision Roof Crafters, Inc. provides expert roofing services in Houston. Rated 4.9/5 from 401 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 401,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Houston Roofing & Construction",
+    "slug": "houston-roofing-construction-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(832) 802-7656",
+    "website": "",
+    "address": "11330 West Rd, Houston, TX 77065",
+    "description": "Houston Roofing & Construction provides expert roofing services in Houston. Rated 4.9/5 from 325 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 325,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Amstill Roofing",
+    "slug": "amstill-roofing-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(281) 612-8747",
+    "website": "",
+    "address": "14125 Memorial Dr, Houston, TX 77079",
+    "description": "Amstill Roofing provides expert roofing services in Houston. Rated 4.9/5 from 1635 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 1635,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Perry Brothers Roof Repair",
+    "slug": "perry-brothers-roof-repair-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(936) 536-7100",
+    "website": "",
+    "address": "10857 Scarsdale Blvd, Houston, TX 77089",
+    "description": "Perry Brothers Roof Repair provides expert roofing services in Houston. Rated 4.9/5 from 67 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 67,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Rivera & Sons Roofers LLC",
+    "slug": "rivera-sons-roofers-llc-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(936) 315-3100",
+    "website": "",
+    "address": "3383 Orlando St, Houston, TX 77093",
+    "description": "Rivera & Sons Roofers LLC provides expert roofing services in Houston. Rated 4.9/5 from 110 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 110,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Industrial Roofing & Repair",
+    "slug": "industrial-roofing-repair-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 280-9604",
+    "website": "",
+    "address": "218 W 27th St Suite A, Houston, TX 77008",
+    "description": "Industrial Roofing & Repair provides expert roofing services in Houston. Rated 4.9/5 from 100 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 100,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "DR Roofing and Construction",
+    "slug": "dr-roofing-and-construction-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(281) 815-2422",
+    "website": "",
+    "address": "18316 Tomball Pkwy, Houston, TX 77070",
+    "description": "DR Roofing and Construction provides expert roofing services in Houston. Rated 4.9/5 from 234 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 234,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Ruff Roofing Houston",
+    "slug": "ruff-roofing-houston-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(346) 339-3405",
+    "website": "",
+    "address": "11767 Katy Fwy # 600, Houston, TX 77079",
+    "description": "Ruff Roofing Houston provides expert roofing services in Houston. Rated 4.8/5 from 441 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 441,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "JC&C Roofing Company",
+    "slug": "jc-c-roofing-company-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(281) 498-7663",
+    "website": "",
+    "address": "1220 Blalock Rd #145, Houston, TX 77055",
+    "description": "JC&C Roofing Company provides expert roofing services in Houston. Rated 4.8/5 from 396 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 396,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "EZ Roof and Construction",
+    "slug": "ez-roof-and-construction-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(832) 979-5409",
+    "website": "",
+    "address": "6613 W Sam Houston Pkwy N, Houston, TX 77041",
+    "description": "EZ Roof and Construction provides expert roofing services in Houston. Rated 4.8/5 from 556 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 556,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Garcia Brothers Roofers LLC",
+    "slug": "garcia-brothers-roofers-llc-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(346) 810-6988",
+    "website": "",
+    "address": "4938 Beechnut St, Houston, TX 77096",
+    "description": "Garcia Brothers Roofers LLC provides expert roofing services in Houston. Rated 4.8/5 from 86 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 86,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Associates Roofing Unlimited",
+    "slug": "associates-roofing-unlimited-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(832) 837-0447",
+    "website": "",
+    "address": "2535 Roy Cir, Houston, TX 77007",
+    "description": "Associates Roofing Unlimited provides expert roofing services in Houston. Rated 4.8/5 from 53 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.8,
+    "review_count": 53,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Monarch Roofing Houston",
+    "slug": "monarch-roofing-houston-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(832) 215-0987",
+    "website": "",
+    "address": "1010 Oxford St, Houston, TX 77008",
+    "description": "Monarch Roofing Houston provides expert roofing services in Houston. Rated 4.7/5 from 156 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 156,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Vargas & Sons Roof Repair",
+    "slug": "vargas-sons-roof-repair-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(936) 259-2220",
+    "website": "",
+    "address": "5949 Nunn St, Houston, TX 77087",
+    "description": "Vargas & Sons Roof Repair provides expert roofing services in Houston. Rated 4.7/5 from 63 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.7,
+    "review_count": 63,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Braun's Roofing",
+    "slug": "braun-s-roofing-houston",
+    "city": "Houston",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "houston",
+    "phone": "(713) 645-0505",
+    "website": "",
+    "address": "3748 Dover Ave, Houston, TX 77087",
+    "description": "Braun's Roofing provides expert roofing services in Houston. Rated 4.1/5 from 234 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.1,
+    "review_count": 234,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Rose Roofing",
+    "slug": "rose-roofing-jersey-village",
+    "city": "Jersey Village",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "jersey-village",
+    "phone": "(713) 849-5155",
+    "website": "",
+    "address": "16000 Dillard Dr Suite C, Jersey Village, TX 77040",
+    "description": "Rose Roofing provides expert roofing services in Jersey Village. Rated 4.9/5 from 432 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 432,
+    "verified": false,
+    "pricing_estimated": true
+  },
+  {
+    "name": "Roof Repair Services",
+    "slug": "roof-repair-services-rosenberg",
+    "city": "Rosenberg",
+    "state": "Texas",
+    "state_slug": "texas",
+    "city_slug": "rosenberg",
+    "phone": "(713) 487-6856",
+    "website": "",
+    "address": "3102 1st St, Rosenberg, TX 77471",
+    "description": "Roof Repair Services provides expert roofing services in Rosenberg. Rated 4.9/5 from 672 reviews.",
+    "services": [
+      {
+        "value": 1,
+        "label": "Roof Inspection",
+        "price_range": "$150\u2013$300"
+      },
+      {
+        "value": 2,
+        "label": "Roof Repair",
+        "price_range": "$350\u2013$1,200"
+      },
+      {
+        "value": 3,
+        "label": "Partial Replacement",
+        "price_range": "$3,500\u2013$7,500"
+      },
+      {
+        "value": 4,
+        "label": "Full Replacement",
+        "price_range": "$9,000\u2013$22,000"
+      }
+    ],
+    "amenities": [
+      "Free Estimates",
+      "Licensed & Insured"
+    ],
+    "service_area_miles": 30,
+    "rating": 4.9,
+    "review_count": 672,
+    "verified": false,
+    "pricing_estimated": true
   }
 ]

@@ -13,6 +13,51 @@ export const metadata: Metadata = {
  */
 const POSTS = [
   {
+    slug: 'how-to-choose-a-roofing-contractor',
+    title: 'How to Choose a Roofing Contractor (2026 Guide)',
+    excerpt:
+      '8-step vetting process, red flags that should kill the deal, certifications that matter, and how to compare quotes like a pro.',
+    date: 'March 15, 2026',
+    readTime: '9 min read',
+    category: 'Tips',
+  },
+  {
+    slug: 'metal-roof-vs-shingles',
+    title: 'Metal Roof vs Shingles: Cost Comparison (2026)',
+    excerpt:
+      'Side-by-side comparison of metal roofing vs asphalt shingles — upfront cost, lifespan, energy savings, and 50-year total cost of ownership.',
+    date: 'March 15, 2026',
+    readTime: '10 min read',
+    category: 'Pricing',
+  },
+  {
+    slug: 'signs-you-need-a-roof-replacement',
+    title: 'Signs You Need a Roof Replacement (Don\'t Ignore These)',
+    excerpt:
+      '12 warning signs your roof needs replacing — from curling shingles to sagging decking — plus a DIY inspection checklist.',
+    date: 'March 15, 2026',
+    readTime: '8 min read',
+    category: 'Tips',
+  },
+  {
+    slug: 'how-long-does-roof-replacement-take',
+    title: 'How Long Does a Roof Replacement Take?',
+    excerpt:
+      'Realistic timelines by roof type and material, phase-by-phase breakdown, and common delays to watch for.',
+    date: 'March 15, 2026',
+    readTime: '8 min read',
+    category: 'Tips',
+  },
+  {
+    slug: 'questions-to-ask-before-hiring-a-roofer',
+    title: 'Questions to Ask Before Hiring a Roofer (2026 Checklist)',
+    excerpt:
+      '15 must-ask questions with good answers vs red flags — licensing, insurance, warranties, payment, and more.',
+    date: 'March 15, 2026',
+    readTime: '10 min read',
+    category: 'Tips',
+  },
+  {
     slug: 'roof-replacement-cost',
     title: 'Roof Replacement Cost in 2026: By Material, Size & Region',
     excerpt:
