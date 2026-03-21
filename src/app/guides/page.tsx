@@ -22,6 +22,31 @@ const GUIDES = [
     excerpt: '10 warning signs with descriptions, a DIY inspection checklist, and a repair vs replace decision guide.',
   },
   {
+    slug: 'roof-replacement-cost-guide',
+    title: 'How Much Does a Roof Replacement Cost in 2026?',
+    excerpt: 'Complete cost breakdown by material, roof size, and region — plus hidden costs most homeowners miss.',
+  },
+  {
+    slug: 'types-of-roofing-materials',
+    title: 'Types of Roofing Materials: Pros, Cons & Costs',
+    excerpt: 'Compare asphalt, metal, tile, slate, and flat roofing — lifespan, costs, and which is right for your home.',
+  },
+  {
+    slug: 'roof-inspection-guide',
+    title: 'Roof Inspection Guide: What to Expect',
+    excerpt: 'What inspectors check, how much it costs, DIY inspection tips, and when to schedule one.',
+  },
+  {
+    slug: 'roof-repair-vs-replacement',
+    title: 'Roof Repair vs Replacement: How to Decide',
+    excerpt: 'The 30% rule, age factors, patch limits, and a quick checklist to make the right call.',
+  },
+  {
+    slug: 'how-to-get-roofing-quotes',
+    title: 'How to Get Roofing Quotes: 7 Steps to the Best Deal',
+    excerpt: 'What to ask contractors, how to compare bids, red flags to avoid, and negotiation tips.',
+  },
+  {
     slug: 'getting-started',
     title: `Getting Started with ${config.industry.singular}`,
     excerpt: 'Everything you need to know before hiring a provider.',
